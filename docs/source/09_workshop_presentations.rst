@@ -9,3 +9,5 @@ Below you can find all of the presentations given during the workhop, arranged b
 * `Week 4\: Climate and Weather <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_04_Climate_and_Weather>`_
 * `Week 5\: Climate Extremes: heatwaves, changes in ice and drought <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_05_Climate_Extremes>`_
 * `Week 6\: Being Practical: How to access and process Copernicus and EUMETSAT data <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_06_Being_Practical>`_
+
+Please note that while the best practice guide is licenced under `CC\-BY <https://creativecommons.org/licenses/by/4.0/>`_, the webinar presentations themselves are licenced under `CC\-BY\-ND <https://creativecommons.org/licenses/by-nd/2.0/>`_. Please see the `GitHub repository <https://github.com/wekeo/eo-data-visualisation>`_ that contains them for more information.
