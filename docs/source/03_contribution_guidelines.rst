@@ -28,3 +28,7 @@ This good practice guide covers EO data visualisation in the broadest sense – 
 Within the initial workshop, and subsequently within this good practice guide, we have avoided examples relating to human conflict, and in the case of natural disasters, avoid exploiting the event and place a priority on retaining the dignity of those affected.
 
 Contributors should keep the above context in mind when submitting contributions to this good practice guide.
+
+.. note::
+
+If you have any problems at all with contributing, or wish to discuss the best practice guide with us, please contact our `helpdesk <mailto:ops@eumetsat.int>`_.
