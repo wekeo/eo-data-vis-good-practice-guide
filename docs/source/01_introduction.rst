@@ -9,5 +9,11 @@ This good practice guide developed initially from a series of workshops held by 
     :alt: youtube playlist for the Earth Observation Data Visualisation Workshop series
     :target: https://youtube.com/playlist?list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT
 
+.. only::
+
+    .. youtube:: PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT
+
+    Getting Started...
+
 Associated slides from the presentation can be found in the workshop git repository. You can find links to the individual weeks in the `Workshop presentations <../09_workshop_presentations.rst>` section.
 
