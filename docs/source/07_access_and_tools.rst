@@ -8,17 +8,17 @@ A wide variety of ways exist to access and work with EO data for visualisation p
 
 Viewers
 -------
-* EUMETView
+* `EUMETView <https://view.eumetsat.int/>`_
 
 Viewers combined with data access and/or analysis functions
 -----------------------------------------------------------
-* MyOcean Pro
+* `MyOcean Pro <https://data.marine.copernicus.eu/viewer/expert>`_
 
 Software for image generation and analysis
 ------------------------------------------
-* SNAP
-* QGIS
+* `SNAP <https://step.esa.int/main/download/snap-download/>`_
+* `QGIS <https://www.qgis.org/en/site/>`_
 
 Code based approaches
 ---------------------
-* Python
+* `EUMETLAB (Python tools for working with EUMETSAT data) <https://gitlab.eumetsat.int/eumetlab>`_
