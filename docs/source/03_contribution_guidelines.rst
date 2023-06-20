@@ -13,11 +13,11 @@ Contributors should be careful not to violate the associated terms of the Creati
 
 In this guide, we consider what makes a story, told with the use of visualisations of Earth Observation data, impactful. We take a broad interpretation of impactful. Impactful can mean (non exclusively):
 
-•   Communicates a challenging topic accurately
-•   Reaches a large audience, directly, or via multiple platforms
-•   Reaches an audience that typically does not engage with a topic
-•   Can be used in an education or training context
-•   Promotes the application of EO data for societal benefit
+* Communicates a challenging topic accurately
+* Reaches a large audience, directly, or via multiple platforms
+* Reaches an audience that typically does not engage with a topic
+* Can be used in an education or training context
+* Promotes the application of EO data for societal benefit
 
 This good practice guide covers EO data visualisation in the broadest sense – from single images, through to visualisations created from multiple data products representing complex analysis. This guide also refers to examples beyond computer-based visualisations.
 
