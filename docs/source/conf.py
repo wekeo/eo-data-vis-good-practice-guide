@@ -2,12 +2,14 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
-
-release = '0.1'
+project = 'Earth Observation Data Visualisation Best Practice Guide'
+org = 'EUMETSAT'
+organization = f'{org} on behalf of the Copernicus Programme'
+author = f'{org} and contributors'
+copyright = f'2023, {author}'
 version = '0.1.0'
+release = version
+sponsor_link = 'https://www.eumetsat.int/'
 
 # -- General configuration
 
@@ -29,7 +31,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
