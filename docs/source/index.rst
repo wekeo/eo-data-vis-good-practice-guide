@@ -1,7 +1,7 @@
 Welcome to the Earth Observation Data Visualisation Workshop best practice guide
 ================================================================================
 
-.. note::
+.. warning::
 
    This project is under active development.
 
@@ -17,4 +17,5 @@ Contents
    05_what_can_eo_observe
    06_what_makes_a_visualisation
    07_access_and_tools
-   08_workshop_presentations
+   08_examples
+   09_workshop_presentations
