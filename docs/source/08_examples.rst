@@ -1,15 +1,15 @@
 Examples stories and visualisation for different environmental thematics
 ========================================================================
 
-Ocean
------
+Air quality and wildfires
+-------------------------
 
-Air quality
------------
+Oceans and sea ice
+------------------
 
-Climate
--------
+Climate and weather
+-------------------
 * ECMWF ice cube example.
 
-Extremes
---------
+Climate extremes: heatwaves, changes in ice and drought
+-------------------------------------------------------
