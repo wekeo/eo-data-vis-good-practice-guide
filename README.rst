@@ -3,9 +3,7 @@ Earth Observation Data Visualisation best practice guide
 
 .. image:: img/EODataViz_Banner.png
 
-Welcome to the Earth Observation Data Visualisation series. This repository will act as a place to collect examples of Earth observation data visualisation generated and/or shown throughout the webinars. It will continue to grow and evolve as the webinar series proceeds and will eventually also host the source material for our "best practice guide".
-
-You can find the built version of this documentation `here <https://eo-data-vis-best-practice-guide.readthedocs.io/en/latest/>`_
+Welcome to the Earth Observation Data Visualisation webinar series best practice guide. This repository holds all of the source documentation used to build the online guide, which can be found `here <https://eo-data-vis-best-practice-guide.readthedocs.io/en/latest/>`_.
 
 Contacts
 --------

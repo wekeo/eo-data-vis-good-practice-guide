@@ -1,4 +1,4 @@
-Acknowledgements and Authors list
+Acknowledgements and authors list
 =================================
 EUMETSAT would like to express its gratitude to all presenters and participants, who attended the initial workshop series, and contributed their presentation content, ideas, and discussion points, which formed the basis of the first draft of this good practice guide.
 

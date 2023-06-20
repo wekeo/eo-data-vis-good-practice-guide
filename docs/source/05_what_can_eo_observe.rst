@@ -1,2 +1,2 @@
-What can Earth Observation observe?
+What can Earth observation observe?
 ===================================
