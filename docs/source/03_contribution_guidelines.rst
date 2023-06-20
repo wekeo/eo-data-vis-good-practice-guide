@@ -1,7 +1,13 @@
 Contribution guidelines
 =======================
 
-This good practice guide is an open community development, licensed under Creative Commons . We welcome suggested edits and additional content from anyone who would like to contribute. Contributions can be made in the form of merge requests to the associated repository, which contains the source code for the ReadTheDocs content. For guidance on setting up the repository and making merge requests, please see the `RTD documentation <https://docs.readthedocs.io/en/stable/tutorial/index.html>`_ and general guidance on `use of GitHub <https://docs.github.com/en>`_.
+This good practice guide is an open community development, licensed under Creative Commons 4.0. We welcome suggested edits and additional content from anyone who would like to contribute.
+
+There are two ways that you can contribute. In both cases you will need to create a `GitHub account <https://github.com/>`_. Once you have done this, you should find your way to the source repository for this documentation, which can be found at `<https://github.com/wekeo/eo-data-vis-best-practice-guide>`_. You can find the documentation itself in the *./docs/source* folder. From this point onwards, how you contribute depends on your level of familiarity with git;
+
+1. If you are a GitHub beginner: you can contribute content by raising an "issue" on the top tab, and add the content you would like to change. We will monitor the issues and merge the changes for you once they have been approved.
+
+2. If you are more familiar with GitHub contributions can be made in the form of merge requests. We will review the content prior to accepting the merge request. For guidance on setting up the repository and making merge requests, please see the `RTD documentation <https://docs.readthedocs.io/en/stable/tutorial/index.html>`_ and general guidance on `use of GitHub <https://docs.github.com/en>`_.
 
 Contributors should be careful not to violate the associated terms of the Creative Commons licence, making sure that any material shared (images etc) are permitted to be used in this context, and appropriately attributed. If contributors add new images, they should attribute to themselves and implicitly agree to the resharing of those images under the terms of the license associated with this guide. As far as possible, contributors should seek to work within the currently defined structure of the document, however new sections can be proposed, if they are a significant addition not represented in the current structure. New contributors should add their names to the author list above, with their merge request.
 
