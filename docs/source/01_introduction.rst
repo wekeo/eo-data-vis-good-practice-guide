@@ -7,7 +7,7 @@ This good practice guide developed initially from a series of workshops held by 
 
 .. only:: series
 
-      .. youtube:: PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT
+      .. youtube:: mDh1Ty_j5KI
 
          The Earth Observation Data Visualisation webinar series
 
