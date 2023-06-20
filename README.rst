@@ -7,4 +7,4 @@ Welcome to the Earth Observation Data Visualisation series. This repository will
 
 Contacts
 --------
-For questions, please contact `<mailto:ops@eumetsat.int>`_
+For questions, please contact `ops\@eumetsat.int <mailto:ops@eumetsat.int>`_
