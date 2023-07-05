@@ -2,7 +2,7 @@ Welcome to the Earth Observation Data Visualisation Workshop best practice guide
 ================================================================================
 
 .. image:: ../../img/EODataViz_Banner.png
-  :width: 400
+  :width: 100%
   :alt: Alternative text
 
 .. warning::
