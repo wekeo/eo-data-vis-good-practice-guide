@@ -1,4 +1,4 @@
-.. _access-to-earth-observation-data-and-tools-for-visualisation:
+.. _access-data-tools:
 
 Access to Earth observation data and tools for visualisation
 ============================================================
