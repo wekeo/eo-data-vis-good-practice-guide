@@ -1,3 +1,5 @@
+.. _what-makes-a-good-story:
+
 What makes a good environmental story for modern news media?
 ============================================================
 
