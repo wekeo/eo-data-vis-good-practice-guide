@@ -1,3 +1,5 @@
+.. _workshop_presentations:
+
 Workshop presentations
 ======================
 
