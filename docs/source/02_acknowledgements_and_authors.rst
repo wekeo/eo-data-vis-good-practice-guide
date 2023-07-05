@@ -54,4 +54,4 @@ Contributory authors include:
 * `Julia Wagemann` - MEEO S.r.l
 * `Ignatius	Williams` - University of Ghana
 
-The source code for this documentation is managed by Benjamin Loveday. For questions about editing and contribution, please see the :ref:`Contribution guidelines` section of this guide.
+The source code for this documentation is managed by Benjamin Loveday. For questions about editing and contribution, please see the :ref:`Contribution guidelines <contribution_guidelines>` section of this guide.
