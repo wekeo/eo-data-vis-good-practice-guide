@@ -1,3 +1,5 @@
+.. _what-makes-a-visualisation:
+
 What makes a visualisation…?
 ============================
 
