@@ -6,8 +6,5 @@ license: LICENSE.txt
 Ben Loveday (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
 
-# List of contributory authors
-...to be completed...
-
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
