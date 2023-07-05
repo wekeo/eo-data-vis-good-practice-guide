@@ -7,7 +7,7 @@ org = 'EUMETSAT'
 organization = f'{org} on behalf of the Copernicus Programme'
 author = f'{org} and contributors'
 copyright = f'CC BY 4.0 (2023)'
-version = '0.1.0'
+version = '0.0.1'
 release = version
 sponsor_link = 'https://www.eumetsat.int/'
 
