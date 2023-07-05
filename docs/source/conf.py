@@ -9,7 +9,6 @@ author = f'{org} and contributors'
 copyright = f'CC BY 4.0 (2023)'
 version = '0.1'
 release = version
-sponsor_link = 'https://www.eumetsat.int/'
 
 # -- General configuration
 
@@ -31,8 +30,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
-#html_theme = 'sphinx_rtd_theme'
 html_theme = 'furo'
 
 # -- Options for EPUB output
