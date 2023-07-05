@@ -9,3 +9,4 @@ This good practice guide developed initially from a series of workshops held by 
 
 Associated slides from the presentation can be found in the workshop git repository. You can find links to the individual weeks in the `workshop presentations <https://eo-data-vis-best-practice-guide.readthedocs.io/en/latest/09_workshop_presentations.html>`_ section.
 
+This guide is a living resource. We welcome contributions from individuals and any related initiatives within the Earth observation community. Please see the :ref:`contribution guidelines` for how to add to this resource.
