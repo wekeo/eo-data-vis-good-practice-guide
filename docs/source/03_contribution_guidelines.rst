@@ -21,9 +21,9 @@ In this guide, we consider what makes a story, told with the use of visualisatio
 * Reaches a large audience, directly, or via multiple platforms
 * Reaches an audience that typically does not engage with a topic
 * Can be used in an education or training context
-* Promotes the application of EO data for societal benefit
+* Promotes the application of Earth observation data for societal benefit
 
-This good practice guide covers EO data visualisation in the broadest sense – from single images, through to visualisations created from multiple data products representing complex analysis. This guide also refers to examples beyond computer-based visualisations.
+This good practice guide covers Earth observation data visualisation in the broadest sense – from single images, through to visualisations created from multiple data products representing complex analysis. This guide also refers to examples beyond computer-based visualisations.
 
 Within the initial workshop, and subsequently within this good practice guide, we have avoided examples relating to human conflict, and in the case of natural disasters, avoid exploiting the event and place a priority on retaining the dignity of those affected.
 
@@ -31,4 +31,4 @@ Contributors should keep the above context in mind when submitting contributions
 
 .. note::
 
-If you have any problems at all with contributing, or wish to discuss the best practice guide with us, please contact our `helpdesk <mailto:ops@eumetsat.int>`_.
+If you have any problems at all with contributing, or wish to discuss the good practice guide with us, please contact our `helpdesk <mailto:ops@eumetsat.int>`_.
