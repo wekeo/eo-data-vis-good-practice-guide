@@ -1,4 +1,4 @@
-eo-data-vis-good-practice-guide (c) by EUMETSAT
+eo-data-vis-good-practice-guide (c) by EUMETSAT and contributors.
 
 eo-data-vis-good-practice-guide is licensed under a
 Creative Commons Attribution 4.0 International License.
