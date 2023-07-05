@@ -1,3 +1,5 @@
+.. _example-stories:
+
 Examples stories and visualisation for different environmental thematics
 ========================================================================
 
