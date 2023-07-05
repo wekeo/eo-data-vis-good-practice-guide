@@ -27,7 +27,7 @@ Whilst visualisation must be compelling to be impactful, it must also be accurat
 * Collaborating with experts
 * Colour schemes
 
-…get attention?
+…draw attention?
 ---------------
 
 * Connected to things that people understand, are concerned about, are in the current news cycle.
