@@ -7,7 +7,7 @@ Welcome to the Earth Observation Data Visualisation Workshop best practice guide
 
 .. warning::
 
-   This project is under active development.
+   This project is under active development. If you wish to contribute to the document or share an opinion on it, we'd love to hear from you. Please consult the :ref:`Contribution guidelines <contribution_guidelines>` section for information on how you can get involved.
 
 Contents
 --------
