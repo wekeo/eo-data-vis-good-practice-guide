@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Earth Observation Data Visualisation Best Practice Guide'
+project = 'Earth Observation Data Visualisation Good Practice Guide'
 org = 'EUMETSAT'
 organization = f'{org} on behalf of the Copernicus Programme'
 author = f'{org} and contributors'
