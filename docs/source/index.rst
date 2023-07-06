@@ -24,4 +24,5 @@ Contents
    06_what_makes_a_visualisation
    07_access_and_tools
    08_examples
-   09_workshop_presentations
+   09_data_providers
+   10_workshop_presentations
