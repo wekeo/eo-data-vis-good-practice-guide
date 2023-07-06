@@ -9,8 +9,6 @@ This good practice guide developed initially from a series of workshops held by 
 
 ..  youtube:: mDh1Ty_j5KI
 
-..  youtube:: mDh1Ty_j5KI&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&ab_channel=EUMETSAT
-
 Associated slides from the presentation can be found in the designated workshop `git repository <https://github.com/wekeo/eo-data-visualisation>`_. You can find links to the individual weeks in the :ref:`workshop presentations <workshop_presentations>` section.
 
 This guide is a living resource. We welcome contributions from individuals and any related initiatives within the Earth observation community. Please see the :ref:`contribution guidelines <contribution_guidelines>` for information on how to add to this resource.
