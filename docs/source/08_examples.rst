@@ -22,7 +22,16 @@ Wildfires: https://twitter.com/Pierre_Markuse/status/1193490034302889984, https:
    :alt: CAMS ozone hole
 Caption: credit Copernicus Atmospheric Monitoring Service
 
-.. image:: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
+
+.. figure:: https://atmosphere.copernicus.eu/sites/default/files/inline-images/MicrosoftTeams-image%20%2814%29_0.png
+   :target: https://atmosphere.copernicus.eu/three-peculiar-antarctic-ozone-hole-seasons-row-what-we-know
+   :width: 75%
+   :alt: CAMS ozone hole
+
+Caption: credit Copernicus Atmospheric Monitoring Service
+
+
+.. image:: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/10/la_palma_lava_flows_into_the_sea/23490642-1-eng-GB/La_Palma_lava_flows_into_the_sea_pillars.jpg
    :target: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
    :width: 75%
    :alt: ESA La Palma lava flow
