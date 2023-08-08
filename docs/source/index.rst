@@ -20,9 +20,9 @@ Contents
    01_introduction
    02_acknowledgements_and_authors
    03_contribution_guidelines
-   04_what_makes_a_good_story/Index.rst
-   05_what_can_eo_observe/Index.rst
-   06_what_makes_a_visualisation
+   04_what_makes_a_good_story/index.rst
+   05_what_can_eo_observe/index.rst
+   06_what_makes_a_visualisation/index.rst
    07_access_and_tools
    08_examples
    09_data_providers
