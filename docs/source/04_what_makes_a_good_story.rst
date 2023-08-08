@@ -29,6 +29,14 @@ Environmental stories featuring Earth observation data are appearing more and mo
 Telling stories on social media 
 -------------------------------
 
+With the availability of social media, the opportunity has arisen for almost anyone to tell stories to almost anyone else. A variety of platforms exist, offering different formats to share data visualisations including images, videos, and text of varying length and style. The virality of social media has great potential to extend the reach of stories told there, however story telling through these platforms often comes with challenges. 
+
+Social media can be used to spread misinformation, and visualisation can be taken out of context. As such the need to be clear and accurate with visualisations is ever more important. 
+
+Many forms of visualisation can be successful on social media, including those which are more interpretive, or fun, can be effective to simply raise awareness of the EO sector and the data it can provide. EO data offers incredible opportunities for creativity, and sharing awe and wonder. 
+
+Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena. 
+
 
 .. _communicating-science:
 

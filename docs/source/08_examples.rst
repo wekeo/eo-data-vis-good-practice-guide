@@ -36,3 +36,12 @@ Climate extremes: heatwaves, changes in ice and drought
 *
 *
 
+Visualisations to be placed
+---------------------------
+
+.. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/177B6/production/_115228169_a68a_iceberg-nc.png.webp
+   :target: https://www.bbc.co.uk/news/science-environment-54798031
+   :width: 100%
+   :alt: A28 Iceberg
+
+  Caption
