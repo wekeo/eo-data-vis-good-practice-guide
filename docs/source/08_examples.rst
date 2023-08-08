@@ -10,9 +10,24 @@ Air quality and wildfires
 
 * Cathy: IASI NH3 (not sure if reproducible as in Nature)
 
-S5p: https://maps.s5p-pal.com/
+
+.. figure:: ../../img/S5P_air_quality.png
+   :target: https://maps.s5p-pal.com/
+   :width: 75%
+   :alt: Sentinel 5P Air quality
+
+   Caption: credit ESA
+
+
 
 Wildfires: https://twitter.com/Pierre_Markuse/status/1193490034302889984, https://pbs.twimg.com/media/EJAg2NbXYAAb-Vc?format=jpg&name=medium
+
+.. figure:: https://pbs.twimg.com/media/EJAg2NbXYAAb-Vc?format=jpg&name=4096x4096
+   :target: https://twitter.com/Pierre_Markuse/status/1193490034302889984
+   :width: 75%
+   :alt: Australia wildfires
+
+   Caption: credit Pierre Markuse
 
 
 .. figure:: https://atmosphere.copernicus.eu/sites/default/files/inline-images/MicrosoftTeams-image%20%2814%29_0.png
@@ -23,11 +38,18 @@ Wildfires: https://twitter.com/Pierre_Markuse/status/1193490034302889984, https:
    Caption: credit Copernicus Atmospheric Monitoring Service
 
 
-.. image:: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/10/la_palma_lava_flows_into_the_sea/23490642-1-eng-GB/La_Palma_lava_flows_into_the_sea_pillars.jpg
+.. figure:: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/10/la_palma_lava_flows_into_the_sea/23490642-1-eng-GB/La_Palma_lava_flows_into_the_sea_pillars.jpg
    :target: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
    :width: 75%
    :alt: ESA La Palma lava flow
-Caption: credit ESA
+
+   Caption: credit ESA
+
+
+
+
+
+
 
 .. _oceans-sea-ice:
 
@@ -57,41 +79,47 @@ Visualisations from journalists to be placed
 --------------------------------------------
 
 
-.. image:: ../../img/Der_Spiegel_air_quality.png
-  :target: https://www.spiegel.de/ausland/luftverschmutzung-wo-die-luft-weltweit-am-schlechtesten-ist-und-was-dagegen-getan-werden-kann-a-1e542a7c-a46b-496f-901d-2fd0d85f3939
-  :width: 75%
-  :alt: Der Spiegel air quality
-Caption: credit Der Spiegel
+.. figure:: ../../img/Der_Spiegel_air_quality.png
+   :target: https://www.spiegel.de/ausland/luftverschmutzung-wo-die-luft-weltweit-am-schlechtesten-ist-und-was-dagegen-getan-werden-kann-a-1e542a7c-a46b-496f-901d-2fd0d85f3939
+   :width: 75%
+   :alt: Der Spiegel air quality
+  
+   Credit: Der Spiegel
 
-.. image:: ../../img/Le_Monde_floods.png
-  :target: https://www.lemonde.fr/les-decodeurs/article/2022/09/07/avant-apres-les-inondations-catastrophiques-au-pakistan-vues-de-l-espace_6140573_4355770.html
-  :width: 75%
-  :alt: Le Monde Pakistan floods
-Caption: credit Le Monde, Copernicus
+.. figure:: ../../img/Le_Monde_floods.png
+   :target: https://www.lemonde.fr/les-decodeurs/article/2022/09/07/avant-apres-les-inondations-catastrophiques-au-pakistan-vues-de-l-espace_6140573_4355770.html
+   :width: 75%
+   :alt: Le Monde Pakistan floods
 
-.. image:: https://ichef.bbci.co.uk/news/976/cpsprodpb/177B6/production/_115228169_a68a_iceberg-nc.png
+   Credit: Le Monde, Copernicus
+
+.. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/177B6/production/_115228169_a68a_iceberg-nc.png
    :target: https://www.bbc.co.uk/news/science-environment-54798031
    :width: 75%
    :alt: BBC A28 Iceberg
-Caption: credit BBC
 
-.. image:: https://ichef.bbci.co.uk/news/976/cpsprodpb/5269/production/_125979012_turbines-nc.png
+   Credit: BBC
+
+.. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/5269/production/_125979012_turbines-nc.png
    :target: https://www.bbc.co.uk/news/science-environment-62227866
    :width: 75%
    :alt: BBC infrared turbines
-Caption: credit BBC
 
-.. image:: https://ichef.bbci.co.uk/news/976/cpsprodpb/12B3A/production/_130020667_nordstream.jpg
+   Credit: BBC
+
+.. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/12B3A/production/_130020667_nordstream.jpg
    :target: https://www.bbc.co.uk/news/science-environment-65775901
    :width: 75%
    :alt: BBC Nordtream pipeline
-Caption: credit BBC
 
-.. image:: https://www.washingtonpost.com/wp-stat/graphics/ai2html/BAREGLACIER/JVLNOZOJMNHU5LWJURSPSF42XI/eagle_island-xlarge.jpg
+   Credit: BBC
+
+.. figure:: https://www.washingtonpost.com/wp-stat/graphics/ai2html/BAREGLACIER/JVLNOZOJMNHU5LWJURSPSF42XI/eagle_island-xlarge.jpg
    :target: https://www.washingtonpost.com/climate-environment/2023/03/24/antarctica-peninsula-glaciers-snow-melt-warm-temperatures/
    :width: 75%
    :alt: Washington Post Eagle Island glacier
-Caption: credit Washington Post
+
+   Credit: Washington Post
 
 
 Visualisations from social media to be placed
