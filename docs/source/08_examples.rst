@@ -43,13 +43,13 @@ Visualisations from journalists to be placed
    :target: https://www.bbc.co.uk/news/science-environment-54798031
    :width: 100%
    :alt: A28 Iceberg
+Caption: credit BBC
 
 Visualisations from social media to be placed
 ---------------------------------------------
 
-.. figure:: https://twitter.com/i/status/1324996921136705536
+.. image:: https://twitter.com/i/status/1324996921136705536
    :target: https://twitter.com/i/status/1324996921136705536
    :width: 100%
    :alt: Tweet
-
-  Caption
+Caption: credit ...
