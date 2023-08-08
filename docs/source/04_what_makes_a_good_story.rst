@@ -77,23 +77,13 @@ Social media can be used to spread misinformation, and visualisation can be take
 
 Many forms of visualisation can be successful on social media, including those which are more interpretive, or fun, can be effective to simply raise awareness of the EO sector and the data it can provide. EO data offers incredible opportunities for creativity, and sharing awe and wonder. 
 
-Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena.
+Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena. 
+
+The examples below show how social media can be used to link satellite data with on the ground events. This can be done at the large scale (e.g. wildfires, algal blooms) to the very small (e.g. dust on a car). Earth observation can also be linked to every day items, especially if they have a spatial element (e.g. a Lego map), or specific events (e.g. a halloween "pumpkin"). Using satellite data in this way can push stories into communities that they would not otherwise reach.
 
 .. raw:: html
 
     <embed>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As both a <a href="https://twitter.com/MotoGP?ref_src=twsrc%5Etfw">@MotoGP</a> fan and satellite nerd, I took a look at data from <a href="https://twitter.com/eumetsat?ref_src=twsrc%5Etfw">@eumetsat</a> <a href="https://twitter.com/hashtag/meteosat?src=hash&amp;ref_src=twsrc%5Etfw">#meteosat</a> for Nov 6th. The &#39;puffs&#39; of pink moving from N. Africa to Valencia are probably dust, dark red is thick high cloud (probably rain). <a href="https://twitter.com/hashtag/ValenciaGP?src=hash&amp;ref_src=twsrc%5Etfw">#ValenciaGP</a> <a href="https://t.co/8AwrMvvzO2">https://t.co/8AwrMvvzO2</a> <a href="https://t.co/Urffzmz1zu">pic.twitter.com/Urffzmz1zu</a></p>&mdash; Ben Loveday (@brloveday) <a href="https://twitter.com/brloveday/status/1324996921136705536?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </embed>
-
-.. raw:: html
-
-    <embed>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🟠 German TV Station <a href="https://twitter.com/ZDF?ref_src=twsrc%5Etfw">@ZDF</a> using some <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel</a>-2🛰 <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a>🔥 satellite images processed by me in the <a href="https://twitter.com/sentinel_hub?ref_src=twsrc%5Etfw">@sentinel_hub</a> EO Browser in their &quot;Terra X&quot; documentary about fires. <a href="https://twitter.com/hashtag/RemoteSensing?src=hash&amp;ref_src=twsrc%5Etfw">#RemoteSensing</a> <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a> <a href="https://twitter.com/hashtag/scicomm?src=hash&amp;ref_src=twsrc%5Etfw">#scicomm</a> European🇪🇺 tax money at work! <a href="https://t.co/EkWDVNw390">pic.twitter.com/EkWDVNw390</a></p>&mdash; Pierre Markuse (@Pierre_Markuse) <a href="https://twitter.com/Pierre_Markuse/status/1495408098743308291?ref_src=twsrc%5Etfw">February 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </embed>
-
-.. raw:: html
-
-    <embed width="50%">
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week <a href="https://twitter.com/brloveday?ref_src=twsrc%5Etfw">@brloveday</a>&amp;I got our <a href="https://twitter.com/LEGO_Group?ref_src=twsrc%5Etfw">@LEGO_Group</a> Lego world map kit! And in honour of <a href="https://twitter.com/hashtag/WorldOceanDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldOceanDay</a> I&#39;m super excited to share the custom satellite data map we have created with it!... <a href="https://twitter.com/hashtag/OceanColour?src=hash&amp;ref_src=twsrc%5Etfw">#OceanColour</a> <a href="https://twitter.com/hashtag/LEGO?src=hash&amp;ref_src=twsrc%5Etfw">#LEGO</a> <a href="https://twitter.com/hashtag/LEGOWorldMap?src=hash&amp;ref_src=twsrc%5Etfw">#LEGOWorldMap</a> <a href="https://twitter.com/hashtag/EarthObservation?src=hash&amp;ref_src=twsrc%5Etfw">#EarthObservation</a> <a href="https://twitter.com/hashtag/WorldOceansDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldOceansDay</a> <a href="https://t.co/QEbEvwjb9f">https://t.co/QEbEvwjb9f</a> <a href="https://t.co/7rCktAG1vr">pic.twitter.com/7rCktAG1vr</a></p>&mdash; 🛰🌍🌊Dr Hayley Evers-King 🇪🇺🇬🇧🇿🇦🇩🇪 (@HayleyEversKing) <a href="https://twitter.com/HayleyEversKing/status/1402211999182987264?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
 
@@ -115,6 +105,17 @@ Social media also allows networking in support of storytelling. Journalists can 
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Arctic?src=hash&amp;ref_src=twsrc%5Etfw">#Arctic</a> <a href="https://twitter.com/hashtag/seaice?src=hash&amp;ref_src=twsrc%5Etfw">#seaice</a> pumpkin - 2021 edition.<br><br>Satellites have measured the decline of <a href="https://twitter.com/hashtag/Arctic?src=hash&amp;ref_src=twsrc%5Etfw">#Arctic</a> sea ice extent in more than 40 years. <a href="https://twitter.com/hashtag/halloween2021?src=hash&amp;ref_src=twsrc%5Etfw">#halloween2021</a> <a href="https://twitter.com/hashtag/COP26?src=hash&amp;ref_src=twsrc%5Etfw">#COP26</a><a href="https://twitter.com/hashtag/ClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateEmergency</a> <a href="https://twitter.com/hashtag/ClimateAction?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateAction</a> <a href="https://t.co/6citZpTgWu">pic.twitter.com/6citZpTgWu</a></p>&mdash; Thomas Lavergne (@lavergnetho) <a href="https://twitter.com/lavergnetho/status/1454803646462443522?ref_src=twsrc%5Etfw">October 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
     </embed>
 
+.. raw:: html
+
+    <embed>
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As both a <a href="https://twitter.com/MotoGP?ref_src=twsrc%5Etfw">@MotoGP</a> fan and satellite nerd, I took a look at data from <a href="https://twitter.com/eumetsat?ref_src=twsrc%5Etfw">@eumetsat</a> <a href="https://twitter.com/hashtag/meteosat?src=hash&amp;ref_src=twsrc%5Etfw">#meteosat</a> for Nov 6th. The &#39;puffs&#39; of pink moving from N. Africa to Valencia are probably dust, dark red is thick high cloud (probably rain). <a href="https://twitter.com/hashtag/ValenciaGP?src=hash&amp;ref_src=twsrc%5Etfw">#ValenciaGP</a> <a href="https://t.co/8AwrMvvzO2">https://t.co/8AwrMvvzO2</a> <a href="https://t.co/Urffzmz1zu">pic.twitter.com/Urffzmz1zu</a></p>&mdash; Ben Loveday (@brloveday) <a href="https://twitter.com/brloveday/status/1324996921136705536?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
+
+.. raw:: html
+
+    <embed>
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🟠 German TV Station <a href="https://twitter.com/ZDF?ref_src=twsrc%5Etfw">@ZDF</a> using some <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel</a>-2🛰 <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a>🔥 satellite images processed by me in the <a href="https://twitter.com/sentinel_hub?ref_src=twsrc%5Etfw">@sentinel_hub</a> EO Browser in their &quot;Terra X&quot; documentary about fires. <a href="https://twitter.com/hashtag/RemoteSensing?src=hash&amp;ref_src=twsrc%5Etfw">#RemoteSensing</a> <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a> <a href="https://twitter.com/hashtag/scicomm?src=hash&amp;ref_src=twsrc%5Etfw">#scicomm</a> European🇪🇺 tax money at work! <a href="https://t.co/EkWDVNw390">pic.twitter.com/EkWDVNw390</a></p>&mdash; Pierre Markuse (@Pierre_Markuse) <a href="https://twitter.com/Pierre_Markuse/status/1495408098743308291?ref_src=twsrc%5Etfw">February 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
 
 .. _communicating-science:
 
