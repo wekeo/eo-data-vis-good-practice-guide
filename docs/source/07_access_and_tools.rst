@@ -54,7 +54,7 @@ Developing your own code can be time consuming, but offers the most flexible way
 
 * If you are working with EUMETSAT data you will find all of our Python based training code on our `EUMETLAB GitLab group <https://gitlab.eumetsat.int/eumetlab>`_. This contains a number of repositories containing Jupyter Notebooks showing how to work with our marine and atmospheric composition data.
 * A similar catalogue of Jupyter Notebooks can be found in the `WEkEO Copernicus DIAS <https://www.wekeo.eu/>`_ catalog
-* Jupyter Books on `dust <https://dust.trainhub.eumetsat.int/docs/index.html>`_, `aerosol <https://dust.trainhub.eumetsat.int/docs/index.html>`_ and `fire https://fire.trainhub.eumetsat.int/docs/index.html>`_ detection can be found on the EUMETSAT TrainHub portal.
+* Jupyter Books on `dust <https://dust.trainhub.eumetsat.int/docs/index.html>`_, `aerosol <https://dust.trainhub.eumetsat.int/docs/index.html>`_ and `fire <https://fire.trainhub.eumetsat.int/docs/index.html>`_ detection can be found on the EUMETSAT TrainHub portal.
 * The `SatPy python package <https://satpy.readthedocs.io/en/stable/>`_ offers extensive options for data visualisation for those working with weather satellites.
 
 Reports
