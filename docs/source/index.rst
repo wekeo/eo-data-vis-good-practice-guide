@@ -5,7 +5,7 @@ Welcome to the Earth observation data visualisation good practice guide
 
 .. image:: ../../img/EODataViz_Banner.png
   :width: 100%
-  :alt: Alternative text
+  :alt: Earth Observation Data Visualisation workshop banner image
 
 .. warning::
 
