@@ -15,7 +15,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
 
    01_introduction
    02_acknowledgements_and_authors
