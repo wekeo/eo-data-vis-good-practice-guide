@@ -9,8 +9,24 @@ Air quality and wildfires
 -------------------------
 
 * Cathy: IASI NH3 (not sure if reproducible as in Nature)
-* Mark: Ozone hole & CAMS dust
-* Simon: Hunga-Tonga & lava flow
+
+
+
+S5p: https://maps.s5p-pal.com/
+
+Wildfires: https://twitter.com/Pierre_Markuse/status/1193490034302889984, https://pbs.twimg.com/media/EJAg2NbXYAAb-Vc?format=jpg&name=medium
+
+.. image:: https://atmosphere.copernicus.eu/sites/default/files/inline-images/MicrosoftTeams-image%20%2814%29_0.png
+   :target: https://atmosphere.copernicus.eu/three-peculiar-antarctic-ozone-hole-seasons-row-what-we-know
+   :width: 75%
+   :alt: CAMS ozone hole
+Caption: credit Copernicus Atmospheric Monitoring Service
+
+.. image:: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
+   :target: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
+   :width: 75%
+   :alt: ESA La Palma lava flow
+Caption: credit ESA
 
 .. _oceans-sea-ice:
 
