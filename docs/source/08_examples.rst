@@ -83,7 +83,7 @@ Oceans and sea ice
 
    Change in Arctic and Antarctic sea ice coverage since 1980 (Credit: Le Monde and EUMETSAT OSI SAF)
 
-.. figure:: https://www.orbitaleos.com/wp-content/uploads/2021/05/Screenshot-2021-05-07-172544-1-scaled.jpg
+.. figure:: ../../img/orbitaleos.png
    :target: https://www.orbitaleos.com
    :width: 100%
    :alt: Satellite-based oil spill tracking
