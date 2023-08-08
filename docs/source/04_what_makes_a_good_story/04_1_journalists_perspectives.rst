@@ -15,14 +15,14 @@ Examples of some of these stories can be found in the :ref:`example stories <exa
 
 Environmental stories featuring Earth observation data are appearing more and more on media platforms, produced by professional journalists. Since the early days of the first satellites and moon missions, images of the Earth, of ‘home’ have captured the interest of the public. Modern Earth observation offers the opportunity for the public to be amazed by things they have never seen, to observe extremes, to be connected to distant places on a daily basis.
 
-.. figure:: ../../img/Der_Spiegel_air_quality.png
+.. figure:: ../../../img/Der_Spiegel_air_quality.png
    :target: https://www.spiegel.de/ausland/luftverschmutzung-wo-die-luft-weltweit-am-schlechtesten-ist-und-was-dagegen-getan-werden-kann-a-1e542a7c-a46b-496f-901d-2fd0d85f3939
    :width: 100%
    :alt: Der Spiegel air quality
   
    Global air quality; particulate matter concentration (Credit: Der Spiegel)
 
-.. figure:: ../../img/Le_Monde_floods.png
+.. figure:: ../../../img/Le_Monde_floods.png
    :target: https://www.lemonde.fr/les-decodeurs/article/2022/09/07/avant-apres-les-inondations-catastrophiques-au-pakistan-vues-de-l-espace_6140573_4355770.html
    :width: 100%
    :alt: Le Monde Pakistan floods
