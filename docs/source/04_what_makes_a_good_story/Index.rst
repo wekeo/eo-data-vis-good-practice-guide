@@ -8,7 +8,6 @@ The world is more connected than ever, with media platforms ranging from televis
 With this diversity of platforms and voices, the opportunities for telling stories about the planet, using Earth Observation data are numerous. However, different platforms, audiences, and communication styles, can require quite different approaches, if stories are to have impact.
 
 .. toctree::
-   :maxdepth: 2
 
    04_1_journalists_perspectives
    04_2_social_media
