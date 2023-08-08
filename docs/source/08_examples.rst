@@ -76,15 +76,15 @@ Oceans and sea ice
 
    Annual change in Arctic sea ice coverage in May since 1980 (Credit: Associated Free Press and EUMETSAT OSI SAF)
 
-.. figure:: ../../../img/Le_Monde_sea_ice.png
+.. figure:: ../../img/Le_Monde_sea_ice.png
    :target: https://www.lemonde.fr/les-decodeurs/article/2023/04/28/neuf-indicateurs-pour-mesurer-l-urgence-climatique_6148399_4355771.html
    :width: 100%
    :alt: OSI SAF Arctic and Antarctic ice coverage time series
 
    Change in Arctic and Antarctic sea ice coverage since 1980 (Credit: Le Monde and EUMETSAT OSI SAF)
 
-.. figure:: https://www.orbitaleos.com/wp-content/uploads/2021/05/Screenshot-2021-05-07-172544-1-scaled.jpg
-   :target: https://www.orbitaleos.com/
+.. figure:: https://www.orbitaleos.com/wp-content/uploads/2021/05/Screenshot-2021-05-07-172544-1-scaled.jpeg
+   :target: https://www.orbitaleos.com
    :width: 100%
    :alt: Satellite-based oil spill tracking
 
