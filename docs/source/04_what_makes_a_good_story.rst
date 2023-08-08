@@ -93,7 +93,7 @@ Social media also allows networking in support of storytelling. Journalists can 
 
 .. raw:: html
 
-    <embed>
+    <embed width="50%">
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week <a href="https://twitter.com/brloveday?ref_src=twsrc%5Etfw">@brloveday</a>&amp;I got our <a href="https://twitter.com/LEGO_Group?ref_src=twsrc%5Etfw">@LEGO_Group</a> Lego world map kit! And in honour of <a href="https://twitter.com/hashtag/WorldOceanDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldOceanDay</a> I&#39;m super excited to share the custom satellite data map we have created with it!... <a href="https://twitter.com/hashtag/OceanColour?src=hash&amp;ref_src=twsrc%5Etfw">#OceanColour</a> <a href="https://twitter.com/hashtag/LEGO?src=hash&amp;ref_src=twsrc%5Etfw">#LEGO</a> <a href="https://twitter.com/hashtag/LEGOWorldMap?src=hash&amp;ref_src=twsrc%5Etfw">#LEGOWorldMap</a> <a href="https://twitter.com/hashtag/EarthObservation?src=hash&amp;ref_src=twsrc%5Etfw">#EarthObservation</a> <a href="https://twitter.com/hashtag/WorldOceansDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldOceansDay</a> <a href="https://t.co/QEbEvwjb9f">https://t.co/QEbEvwjb9f</a> <a href="https://t.co/7rCktAG1vr">pic.twitter.com/7rCktAG1vr</a></p>&mdash; 🛰🌍🌊Dr Hayley Evers-King 🇪🇺🇬🇧🇿🇦🇩🇪 (@HayleyEversKing) <a href="https://twitter.com/HayleyEversKing/status/1402211999182987264?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
 
