@@ -80,8 +80,19 @@ Caption: credit Washington Post
 Visualisations from social media to be placed
 ---------------------------------------------
 
+.. raw:: html
+
+    <embed>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As both a <a href="https://twitter.com/MotoGP?ref_src=twsrc%5Etfw">@MotoGP</a> fan and satellite nerd, I took a look at data from <a href="https://twitter.com/eumetsat?ref_src=twsrc%5Etfw">@eumetsat</a> <a href="https://twitter.com/hashtag/meteosat?src=hash&amp;ref_src=twsrc%5Etfw">#meteosat</a> for Nov 6th. The &#39;puffs&#39; of pink moving from N. Africa to Valencia are probably dust, dark red is thick high cloud (probably rain). <a href="https://twitter.com/hashtag/ValenciaGP?src=hash&amp;ref_src=twsrc%5Etfw">#ValenciaGP</a> <a href="https://t.co/8AwrMvvzO2">https://t.co/8AwrMvvzO2</a> <a href="https://t.co/Urffzmz1zu">pic.twitter.com/Urffzmz1zu</a></p>&mdash; Ben Loveday (@brloveday) <a href="https://twitter.com/brloveday/status/1324996921136705536?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
+
+
 .. image:: https://twitter.com/i/status/1324996921136705536
    :target: https://twitter.com/i/status/1324996921136705536
    :width: 100%
    :alt: Tweet
 Caption: credit ...
+
+
+
+
