@@ -13,17 +13,17 @@ Contributory authors include:
 
 * `Aida Alvera-Azcárate` - University of Liege, GHER
 * `Jonathan	Amos` - BBC
-* `Béatrice Bonneval` - ALSO Space
+* `Jason Box` - Geological Survey of Denmark and Greenland
 * `Vittorio	Brando` - CNR
 * `Samantha	Burgess` - C3S
 * `Cathy Clerbaux` - CNRS
 * `Giovanni	Coppini` - CMCC
-* `Sienna	Cumby` - ALSO Space
+* `Sienna Cumby` - ALSO Space
 * `Gary	Dagorn` - Le Monde
 * `Letizia Davoli` - TV2000
-* `Scott Duncan` - Wx Meteorologist
+* `Scott Duncan`
 * `Alexander Epp` - Der Spiegel
-* `Hayley	Evers-King` - EUMETSAT
+* `Hayley Evers-King` - EUMETSAT
 * `Federico	Fierli` - EUMETSAT
 * `Paul	Fisher` - ESA
 * `Neil Fletcher` - EUMETSAT
@@ -37,14 +37,13 @@ Contributory authors include:
 * `Noemi Marsico` - Innoflair UG
 * `Olivier Membrive` - Météo-France
 * `Fabrice Messal` - Mercator Ocean International
-* `Clare	Nullis` - WMO
+* `Clare Nullis` - WMO
 * `Stéphane	Ourevitch` - SpaceTec Partners
-* `Mark	Parrington` - ECMWF
+* `Mark Parrington` - ECMWF
 * `Kasha Patel` - Washington Post
-* `Simon Proud` - NCEO / University of Oxford
+* `Simon Proud` - NCEO
 * `Valentin	Rakovsky` - AFP
 * `Peter Salomon` - DG JRC
-* `Virginijus	Sinkevičius` - European Commission
 * `Ivan	Smiljanic` - EUMETSAT
 * `Chris Stewart` - C3S
 * `Achim Tack` - Der Spiegel
