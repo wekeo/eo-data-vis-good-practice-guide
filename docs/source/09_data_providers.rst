@@ -22,9 +22,9 @@ Data providers and services
    :widths: 20 20 60
    :header-rows: 1
 
-   * - Provider
-     - Service
-     - Description
+   * - **Provider**
+     - **Service**
+     - **Description**
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - `EUMETView <https://view.eumetsat.int>`_
      - Web Map, Web Feature and Web Coverage data viewing services for EUMETSAT oceanographic and weather data
