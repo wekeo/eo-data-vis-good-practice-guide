@@ -3,11 +3,23 @@
 Oceans and sea ice visualisations
 ---------------------------------
 
-* Fabrice: Sea ocean velocity
+.. figure:: ../../img/Surf_geo.png
+   :target: https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A4326&t=1691755200000&z=0&center=-25.087923759109074%2C24.05597819633855&zoom=10.69622142850287&layers=W3siaWQiOiJjMSIsIm9wYWNpdHkiOjEsImxheWVySWQiOiJTRUFMRVZFTF9HTE9fUEhZX0w0X05SVF9PQlNFUlZBVElPTlNfMDA4XzA0Ni9kYXRhc2V0LWR1YWNzLW5ydC1nbG9iYWwtbWVyZ2VkLWFsbHNhdC1waHktbDRfMjAyMTEyL3N1cmZhY2VfZ2Vvc3Ryb3BoaWNfc2VhX3dhdGVyX3ZlbG9jaXR5IiwiekluZGV4IjoxMDAsImxvZ1NjYWxlIjpmYWxzZSwiY29sb3JtYXBJZCI6ImRlbnNlIn1d&basemap=dark
+   :width: 100%
+   :alt: CMEMS surface geostrophic velocity
 
+   Surface geostrophic velocity product in Arctic and Antarctic sea ice coverage since 1980 (Credit: Copernicus Marine Service)
 
+//
 
-* Olivier: Ice visualisations and C3S report
+.. figure:: ../../img/Barent_sea_ice.png
+   :target: https://climate.copernicus.eu/esotc/2022/ocean
+   :width: 100%
+   :alt: OSI SAF and C3S Barent sea ice coverage
+
+   Sea ice coverage in the Barents Sea (Credit: OSI SAF and Copernicus Climate Change Service)
+
+//
 
 .. raw:: html
 
@@ -22,12 +34,16 @@ Oceans and sea ice visualisations
 
    Annual change in Arctic sea ice coverage in May since 1980 (Credit: Associated Free Press and EUMETSAT OSI SAF)
 
+//
+
 .. figure:: ../../img/Le_Monde_sea_ice.png
    :target: https://www.lemonde.fr/les-decodeurs/article/2023/04/28/neuf-indicateurs-pour-mesurer-l-urgence-climatique_6148399_4355771.html
    :width: 100%
    :alt: OSI SAF Arctic and Antarctic ice coverage time series
 
    Change in Arctic and Antarctic sea ice coverage since 1980 (Credit: Le Monde and EUMETSAT OSI SAF)
+
+//
 
 .. figure:: ../../img/orbitaleos.png
    :target: https://www.orbitaleos.com
