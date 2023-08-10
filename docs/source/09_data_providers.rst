@@ -26,11 +26,9 @@ Data providers and services
      - Services
      - Available data
    * - `EUMETSAT <https://www.eumetsat.int>`_
-     - `EUMETView <https://view.eumetsat.int>`_ \n `Data Store <https://data.eumetsat.int>`_
+     - | `EUMETView <https://view.eumetsat.int>`_ 
+       | `Data Store <https://data.eumetsat.int>`_
      - Weather, climate, atmospheric and marine satellite products at near real-time, reprocessed and climate scales.
-   * - 
-     - `EUMETSAT Data Store <https://data.eumetsat.int>`_
-     - GUI and API services for primary data access for EUMETSAT operational and reprocessed oceanographic, weather and climate data
    * - `Copernicus Marine Service <https://marine.copernicus.eu/>`_
      - `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_
      - GUI-based 
