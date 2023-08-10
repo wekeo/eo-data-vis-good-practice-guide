@@ -15,6 +15,6 @@ A full breakdown of Earth Observation measurement techniques and applications is
    05_1_land
    05_2_atmosphere
    05_3_oceans
-   05_4_ice
+   05_4_cryosphere
    05_5_weather
    05_6_climate
