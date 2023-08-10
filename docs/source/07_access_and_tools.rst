@@ -63,5 +63,10 @@ Developing your own code can be time consuming, but offers the most flexible way
 Reports
 -------
 * `Copernicus Marine Service State of the Ocean report <https://marine.copernicus.eu/access-data/ocean-state-report/ocean-state-report-6>`_
-* `Copernicus Climate Change Service state of the climate report <https://climate.copernicus.eu/esotc/2022/globe-in-2022>`_
+* `Copernicus Climate Change Service state of the climate report <https://climate.copernicus.eu/esotc/2022>`_
+
+
+Other
+
+* CMSAF: latest images: https://www.cmsaf.eu/EN/Quicklooks/latest_images_node.html
 
