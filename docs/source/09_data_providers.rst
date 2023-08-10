@@ -14,3 +14,33 @@ To support storytelling, data providers can:
 * Provide fitness-for-purpose information, so that non-experts can find suitable data sets for different applications.
 * Provide expert user support. 
 * Support their subject experts in creating an online, personal presence to participate in networking activities related to storytelling.
+
+Data providers and services
+--------------
+
+.. list-table:: Title
+   :widths: 20 20 60
+   :header-rows: 1
+
+* - Provider
+     - Service
+     - Description
+   * - `EUMETSAT <https://www.eumetsat.int>`_
+     - `EUMETView <https://view.eumetsat.int>`_
+     - Web Map, Web Feature and Web Coverage data viewing services for EUMETSAT oceanographic and weather data
+   * - 
+     - `EUMETSAT Data Store <https://data.eumetsat.int>`_
+     - GUI and API services for primary data access for EUMETSAT operational and reprocessed oceanographic, weather and climate data
+
+* EUMETSAT: front page, data store and EUMETView
+* Copernicus Marine Service (CMEMS): front page and my ocean viewer
+* Copernicus Atmosphere Monitoring Service (CAMS)
+* Copernicus Climate Change Service (C3S)
+* Copernicus Land Service (CLMS)
+* Copernicus Security Service
+* Copernicus Emergency Service (CEMS)
+* WEkEO
+* https://www.cmsaf.eu/EN/Home/
+* https://landsaf.ipma.pt/en/
+* https://hsaf.meteoam.it/
+* ESA: OVL
