@@ -22,15 +22,15 @@ Data providers and services
    :widths: 20 20 60
    :header-rows: 1
 
-  * - Provider
-    - Service
-    - Description
-  * - `EUMETSAT <https://www.eumetsat.int>`_
-    - `EUMETView <https://view.eumetsat.int>`_
-    - Web Map, Web Feature and Web Coverage data viewing services for EUMETSAT oceanographic and weather data
-  * - 
-    - `EUMETSAT Data Store <https://data.eumetsat.int>`_
-    - GUI and API services for primary data access for EUMETSAT operational and reprocessed oceanographic, weather and climate data
+   * - Provider
+     - Service
+     - Description
+   * - `EUMETSAT <https://www.eumetsat.int>`_
+     - `EUMETView <https://view.eumetsat.int>`_
+     - Web Map, Web Feature and Web Coverage data viewing services for EUMETSAT oceanographic and weather data
+   * - 
+     - `EUMETSAT Data Store <https://data.eumetsat.int>`_
+     - GUI and API services for primary data access for EUMETSAT operational and reprocessed oceanographic, weather and climate data
 
 * EUMETSAT: front page, data store and EUMETView
 * Copernicus Marine Service (CMEMS): front page and my ocean viewer
