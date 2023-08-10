@@ -14,7 +14,7 @@ Below, we present some visualising approaches that address these considerations,
 .. toctree::
    :maxdepth: 2
 
-   07_1_data_stores
+   07_1_data_stores - test
    07_2_viewers
    07_3_dashboards
    07_4_software_packages
