@@ -17,6 +17,7 @@ To support storytelling, data providers can:
 
 Data providers and services
 --------------
+Below is a non-exhaustive list of data providers - please do suggest additions! 
 
 .. list-table:: Data providers and services
    :widths: 20 20 60
