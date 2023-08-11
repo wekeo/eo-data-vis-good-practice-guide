@@ -3,7 +3,9 @@
 Workshop presentations
 ======================
 
-Below you can find all of the presentations given during the workhop, arranged by thematic week and in PDF format.
+Recordings of the Copernicus Earth Observation Data Visualisation workshop which first prompted the creation of this guide, are available on the `EUMETSAT YouTube channel <https://www.youtube.com/watch?v=mDh1Ty_j5KI&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT>`_
+
+Below you can find the associated slides of the presentations given during the workhop, arranged by thematic week and in PDF format.
 
 * `Week 1\: Introduction to EO Data Visualisation <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_01_Introduction_to_EO_Data_Visualisation>`_
 * `Week 2\: Air Quality and Wildfires <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_02_Air_Quality_and_Wildfires>`_
@@ -12,4 +14,4 @@ Below you can find all of the presentations given during the workhop, arranged b
 * `Week 5\: Climate Extremes: heatwaves, changes in ice and drought <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_05_Climate_Extremes>`_
 * `Week 6\: Being Practical: How to access and process Copernicus and EUMETSAT data <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_06_Being_Practical>`_
 
-Please note that while the best practice guide is licenced under `CC\-BY\-4.0 <https://creativecommons.org/licenses/by/4.0/>`_, the webinar presentations themselves are licenced under `CC\-BY\-ND <https://creativecommons.org/licenses/by-nd/2.0/>`_. Please see the `GitHub repository <https://github.com/wekeo/eo-data-visualisation>`_ that contains them for more information.
+Please note that while the good practice guide is licenced under `CC\-BY\-4.0 <https://creativecommons.org/licenses/by/4.0/>`_, the webinar presentations themselves are licenced under `CC\-BY\-ND <https://creativecommons.org/licenses/by-nd/2.0/>`_. Please see the `GitHub repository <https://github.com/wekeo/eo-data-visualisation>`_ that contains them for more information.
