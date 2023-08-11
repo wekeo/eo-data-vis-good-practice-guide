@@ -28,11 +28,11 @@ Contents
    09_data_providers
    10_workshop_presentations
 
-To do:
+**To do:**
 
-* finalise example inclusion and check accreditation
-* tidy examples and include text descriptions
-* complete EO observe variables tables
-* complete data provider table
-* proof
-* executive summary and key points boxes?
+* finalise example inclusion and check accreditation (B)
+* tidy examples and include text descriptions (B/H)
+* complete EO observe variables tables (B)
+* complete data provider table (B)
+* proof (H)
+* executive summary and key points boxes? (H)
