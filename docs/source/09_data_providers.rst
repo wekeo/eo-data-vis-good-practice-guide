@@ -27,19 +27,22 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
      - Services
      - Available data
    * - `EUMETSAT <https://www.eumetsat.int>`_
-     - | `EUMETView <https://view.eumetsat.int>`_ 
-       | `EUMETSAT Data Store <https://data.eumetsat.int>`_
-     - Weather, climate, atmospheric and marine satellite products at near real-time, reprocessed and climate scales.
-   * - `Copernicus Marine Service <https://marine.copernicus.eu/>`_
-     - | `My Ocean Viewer (expert) <https://data.marine.copernicus.eu/viewer/expert>`_
-       | `CMEMS Data Store <https://data.marine.copernicus.eu/products>`_
-     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at NRT, reprocessed and climate scales. 
+     - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
+       | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
+     - Weather, climate, atmospheric and marine satellite products at operational, reprocessed and climate scales.
+   * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
+     - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
+       | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
+     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at operational, reprocessed and climate scales.
+   * - `Copernicus Atmospheric Monitoring Service (CAMS) <https://atmosphere.copernicus.eu/>`_
+     - | `Daily charts <https://atmosphere.copernicus.eu/charts/packages/cams/>`_    
+       | `Atmospheric Data Store <https://atmosphere.copernicus.eu/data>`_ (Web GUI/API)
+     - Atmopsheric charts and data from from satellites and numerical models at near operational and reprocessed scales.
+   * - `Copernicus Climate Change Service (C3S) <https://climate.copernicus.eu/>`_
+     - | `Climate Data Store <https://cds.climate.copernicus.eu/#!/home>`_ (Web GUI/API)
+     - Climate indicators, data and reports for the atmosphere, ocean and cryosphere.
+    
 
-
-
-* Copernicus Marine Service (CMEMS): front page and my ocean viewer
-* Copernicus Atmosphere Monitoring Service (CAMS)
-* Copernicus Climate Change Service (C3S)
 * Copernicus Land Service (CLMS)
 * Copernicus Security Service
 * Copernicus Emergency Service (CEMS)
