@@ -11,14 +11,6 @@ Attributing cause is a further challenge. Whilst we can address the long-term co
 
 Collaboration with experts can help assure that visualisations are using the most suitable data for the story in development, and provide necessary context and caveats that can be added.
 
-Further tips for making accurate visualisations include use of labels to provide scale and location information, and the selection of colour scales that show true changes using linear change and contrast in the colours selected. 
+Further tips for making accurate visualisations include use of clear but simple labels to provide scale and location information, and the selection of colour scales that show true changes using linear change and contrast in the colours selected. 
 
-REDUNDANT?
-
-Whilst visualisation must be compelling to be impactful, it must also be accurate in order for that impact to be that which is desired by those of us who value science communication.
-* Representing change
-* Representing relative risk
-* Attributing cause
-* Collaborating with experts
-* Colour schemes
 
