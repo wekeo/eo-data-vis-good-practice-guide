@@ -16,7 +16,7 @@ To support storytelling, data providers can:
 * Support their subject experts in creating an online, personal presence to participate in networking activities related to storytelling.
 
 Data providers and services
---------------
+---------------------------
 Below is a non-exhaustive list of data providers - please do suggest additions! 
 
 .. list-table:: Data providers and services
@@ -29,6 +29,7 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
        | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
+       | `EUMETSAT Data Centre <https://archive.eumetsat.int/usc/UserServicesClient.html>`_ (Web order; authentication required)
      - Weather, climate, atmospheric and marine satellite products at operational, reprocessed and climate scales.
    * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
      - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
@@ -41,13 +42,25 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
    * - `Copernicus Climate Change Service (C3S) <https://climate.copernicus.eu/>`_
      - | `Climate Data Store <https://cds.climate.copernicus.eu/#!/home>`_ (Web GUI/API)
      - Climate indicators, data and reports for the atmosphere, ocean and cryosphere.
-    
+   * - `Copernicus Land Service (CLMS) <https://land.copernicus.eu/>`_
+     - | `Land Service Portal <https://land.copernicus.vgt.vito.be/>`_ (Web GUI)
+       | `Product access <https://land.copernicus.eu/global/access>`_ (Web API/FTP)
+     - Land products.
+   * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
+     - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
+     - Situational map information on current emergencies from various sensors and data providers.
 
-* Copernicus Land Service (CLMS)
-* Copernicus Security Service
-* Copernicus Emergency Service (CEMS)
-* WEkEO
+--- SAFs ---
+* https://osi-saf.eumetsat.int/ (https://osi-saf.eumetsat.int/products)
 * https://www.cmsaf.eu/EN/Home/
 * https://landsaf.ipma.pt/en/
 * https://hsaf.meteoam.it/
+--- satellite operators ---
+* ESA: scihub https://scihub.copernicus.eu/
 * ESA: OVL
+* ESA: eogateway (https://earth.esa.int/eogateway/catalog)
+--- 3rd party ---
+* sentinel- hub
+--- cloud ---
+* WEkEO
+* AWS
