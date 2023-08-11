@@ -28,11 +28,12 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
      - Available data
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - | `EUMETView <https://view.eumetsat.int>`_ 
-       | `Data Store <https://data.eumetsat.int>`_
+       | `EUMETSAT Data Store <https://data.eumetsat.int>`_
      - Weather, climate, atmospheric and marine satellite products at near real-time, reprocessed and climate scales.
    * - `Copernicus Marine Service <https://marine.copernicus.eu/>`_
-     - `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_
-     - GUI-based 
+     - | `My Ocean Viewer (expert) <https://data.marine.copernicus.eu/viewer/expert>`_
+       | `CMEMS Data Store <https://data.marine.copernicus.eu/products>`_
+     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at NRT, reprocessed and climate scales. 
 
 
 
