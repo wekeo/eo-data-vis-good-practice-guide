@@ -2,6 +2,32 @@
 
 Oceans and sea ice visualisations
 ---------------------------------
+.. figure:: ../../img/Eddies1.png
+   :target: https://apps.sentinel-hub.com/eo-browser/
+   :width: 100%
+   :alt: Algal blooms caught in an eddy
+
+   Algal blooms caught in an eddy (Credit: Aida Alvera-Azcárate and Sentinel-Hub)
+
+//
+
+.. figure:: ../../img/Eddies2.png
+   :target: https://apps.sentinel-hub.com/eo-browser/
+   :width: 100%
+   :alt: Viewing ocean colour signals with different palettes
+
+   Viewing ocean colour signals with different palettes (Credit: Aida Alvera-Azcárate)
+
+//
+
+.. figure:: ../../img/Eddies3.png
+   :target: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017589#
+   :width: 100%
+   :alt: Eddy dynamics in the Balearic Sea
+
+   Eddy dynamics in the Balearic Sea (Credit: JGR Oceans;Wiley)
+
+//
 
 .. figure:: ../../img/Surf_geo.png
    :target: https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A4326&t=1691755200000&z=0&center=-25.087923759109074%2C24.05597819633855&zoom=10.69622142850287&layers=W3siaWQiOiJjMSIsIm9wYWNpdHkiOjEsImxheWVySWQiOiJTRUFMRVZFTF9HTE9fUEhZX0w0X05SVF9PQlNFUlZBVElPTlNfMDA4XzA0Ni9kYXRhc2V0LWR1YWNzLW5ydC1nbG9iYWwtbWVyZ2VkLWFsbHNhdC1waHktbDRfMjAyMTEyL3N1cmZhY2VfZ2Vvc3Ryb3BoaWNfc2VhX3dhdGVyX3ZlbG9jaXR5IiwiekluZGV4IjoxMDAsImxvZ1NjYWxlIjpmYWxzZSwiY29sb3JtYXBJZCI6ImRlbnNlIn1d&basemap=dark
