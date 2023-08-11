@@ -17,7 +17,7 @@ To support storytelling, data providers can:
 
 Data providers and services
 ---------------------------
-Below is a non-exhaustive list of data providers - please do suggest additions! 
+Below is a non-exhaustive list of data providers alongside some of their associated services - please do suggest additions! 
 
 .. list-table:: Data providers and services
    :widths: 20 20 60
@@ -26,11 +26,24 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
    * - Provider
      - Services
      - Available data
+   * - **Satellite providers**  
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
        | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
        | `EUMETSAT Data Centre <https://archive.eumetsat.int/usc/UserServicesClient.html>`_ (Web order; authentication required)
      - Weather, climate, atmospheric and marine satellite products at operational, reprocessed and climate scales.
+   * - `European Space Agency (ESA) <https://www.esa.int>`_
+     - | `Sentinel SciHub <https://scihub.copernicus.eu/>`_ (Web GUI/API)
+       | `EO Gateway <https://earth.esa.int/eogateway/catalog>`_
+       | `Ocean Virtual Laboratory <https://ovl.oceandatalab.com/>`_
+     - Atmospheric and marine satellite products from research and operational missions.
+   * - **Numerical weather prediction providers**  
+   * - `European Centre for Medium Range Weather Forecasting (ECMWF) <https://www.ecmwf.int>`_
+     - | `Sentinel SciHub <https://scihub.copernicus.eu/>`_ (Web GUI/API)
+       | `EO Gateway <https://earth.esa.int/eogateway/catalog>`_
+       | `Ocean Virtual Laboratory <https://ovl.oceandatalab.com/>`_
+     - Reanalysis and forecast charts and data sets.
+   * - **Copernicus services**
    * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
      - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
        | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
@@ -59,6 +72,9 @@ Below is a non-exhaustive list of data providers - please do suggest additions!
 * ESA: scihub https://scihub.copernicus.eu/
 * ESA: OVL
 * ESA: eogateway (https://earth.esa.int/eogateway/catalog)
+--- numerical model ---
+ECMWF: https://www.ecmwf.int/en/forecasts/datasets
+ECMWF: https://www.ecmwf.int/en/forecasts/charts
 --- 3rd party ---
 * sentinel- hub
 --- cloud ---
