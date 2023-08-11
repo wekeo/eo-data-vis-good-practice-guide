@@ -39,10 +39,9 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - Atmospheric and marine satellite products from research and operational missions.
    * - **Numerical weather prediction providers**  
    * - `European Centre for Medium Range Weather Forecasting (ECMWF) <https://www.ecmwf.int>`_
-     - | `Sentinel SciHub <https://scihub.copernicus.eu/>`_ (Web GUI/API)
-       | `EO Gateway <https://earth.esa.int/eogateway/catalog>`_
-       | `Ocean Virtual Laboratory <https://ovl.oceandatalab.com/>`_
-     - Reanalysis and forecast charts and data sets.
+     - | `Data archive <https://www.ecmwf.int/en/forecasts/datasets>`_ (API)
+       | `Chart viewer and browser <https://www.ecmwf.int/en/forecasts/charts>`_
+     - Reanalysis and forecast charts and data sets. Many products available through the Copernicus Climate Data Store.
    * - **Copernicus services**
    * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
      - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
@@ -62,21 +61,13 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
      - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
      - Situational map information on current emergencies from various sensors and data providers.
-
---- SAFs ---
-* https://osi-saf.eumetsat.int/ (https://osi-saf.eumetsat.int/products)
-* https://www.cmsaf.eu/EN/Home/
-* https://landsaf.ipma.pt/en/
-* https://hsaf.meteoam.it/
---- satellite operators ---
-* ESA: scihub https://scihub.copernicus.eu/
-* ESA: OVL
-* ESA: eogateway (https://earth.esa.int/eogateway/catalog)
---- numerical model ---
-ECMWF: https://www.ecmwf.int/en/forecasts/datasets
-ECMWF: https://www.ecmwf.int/en/forecasts/charts
---- 3rd party ---
-* sentinel- hub
---- cloud ---
-* WEkEO
-* AWS
+   * - **EUMETSAT Satellite Application Facilities (SAFs)**
+   * - `Ocean and Sea Ice SAF (OSI SAF) <https://osi-saf.eumetsat.int/>`_
+   * - `Atmospheric Composition SAF (AC SAF) <https://acsaf.org/>`_
+   * - `Climate Monitoring SAF (CM SAF) <https://www.cmsaf.eu/EN/Home/>`_
+   * - `Land Surface Analysis SAF (LSA SAF) <https://landsaf.ipma.pt/en/>`_
+   * - `Hydrology and Water Management SAF (H SAF) <https://hsaf.meteoam.it/>`_
+   * - **Cloud providers**
+   * - WEkEO
+   * - **Commercial services**
+   * - Sentinel-hub
