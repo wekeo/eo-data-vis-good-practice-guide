@@ -3,7 +3,7 @@
 Air quality and wildfires visualisations
 ----------------------------------------
 
-.. figure:: ../../img/IASI_NH3.png
+.. figure:: ../../../img/IASI_NH3.png
    :target: https://squares.ulb.be//NH3-IASI.html
    :width: 100%
    :alt: IASI NH3
@@ -12,7 +12,7 @@ Air quality and wildfires visualisations
 
 \\
 
-.. figure:: ../../img/S5P_air_quality.png
+.. figure:: ../../../img/S5P_air_quality.png
    :target: https://maps.s5p-pal.com/
    :width: 100%
    :alt: Sentinel 5P Air quality

@@ -3,8 +3,17 @@
 Climate and weather visualisations
 ----------------------------------
 
-* ECMWF ice cube example.
 * Tony
+
+Maps
+• chooseanintuitivecolormap:colorsinthemapshouldsuggestthepropervisualinterpretationof the data (avoid rainbow colormap when possible)
+• forananomalymapadivergentpaletteshouldbeselected.Whitecolorisgenerallyassociatedto areas with no anomalies (nor positive, neither negative)
+• Ananomalymapshouldalwaysspecifythereferenceperiodfortheclimatologyusedinthe calculation
+• Definetheminimumandmaximumvaluesofthecolorbarsothatthemostrelevantpatternsofthe data in the map are highlighted.
+Plots
+• forlongTimeSeriesofmonthlyanomalies,representyearsonthex-axisinordertomakethegraph more readable.
+• a bar plot representing the Time Series of an anomaly should be colored with a divergent palette, as well as an anomaly map
+• Alwaysspecifytheunitsofmeasurementofyourxandyaxes
 
 
 .. raw:: html
@@ -18,14 +27,14 @@ Climate and weather visualisations
 
 * Samantha
 
-.. figure:: ../../img/ERA5_temp.png
+.. figure:: ../../../img/ERA5_temp.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
    :alt: ERA5 annual mean temperature anomaly
 
    ERA5 annual mean temperature anomaly (Credit: Copernicus Climate Change Service)
 
-.. figure:: ../../img/stripes_dover.png
+.. figure:: ../../../img/stripes_dover.png
    :target: https://www.reading.ac.uk/news/2023/University-News/White-Cliffs-of-Dover-display-climate-stripes
    :width: 100%
    :alt: Visualising climate stripes
