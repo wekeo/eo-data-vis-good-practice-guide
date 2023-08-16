@@ -3,17 +3,6 @@
 Climate and weather visualisations
 ----------------------------------
 
-* Tony
-
-Maps
-• chooseanintuitivecolormap:colorsinthemapshouldsuggestthepropervisualinterpretationof the data (avoid rainbow colormap when possible)
-• forananomalymapadivergentpaletteshouldbeselected.Whitecolorisgenerallyassociatedto areas with no anomalies (nor positive, neither negative)
-• Ananomalymapshouldalwaysspecifythereferenceperiodfortheclimatologyusedinthe calculation
-• Definetheminimumandmaximumvaluesofthecolorbarsothatthemostrelevantpatternsofthe data in the map are highlighted.
-Plots
-• forlongTimeSeriesofmonthlyanomalies,representyearsonthex-axisinordertomakethegraph more readable.
-• a bar plot representing the Time Series of an anomaly should be colored with a divergent palette, as well as an anomaly map
-• Alwaysspecifytheunitsofmeasurementofyourxandyaxes
 
 
 .. raw:: html
@@ -21,25 +10,24 @@ Plots
     <embed>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is a 98% chance of at least one in the next five years beating the temperature record set in 2016.<br><br>It is a moral, economic &amp; social imperative to help countries prepare for &amp; adapt to the increasingly harmful impacts of the climate crisis.</p>&mdash; António Guterres (@antonioguterres) <a href="https://twitter.com/antonioguterres/status/1658842308144504836?ref_src=twsrc%5Etfw">May 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
+Even when not visualised itself, data can still inform story telling. Clear and concise statements can distill vast of amounts of data in to stories that anyone can understand. 
 
 
-* Ivan
-
-* Samantha
+Visualisations have the potential to become memes, repeated in many contexts.
 
 .. figure:: ../../../img/ERA5_temp.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
    :alt: ERA5 annual mean temperature anomaly
 
-   ERA5 annual mean temperature anomaly (Credit: Copernicus Climate Change Service)
+   ERA5 annual mean temperature anomaly (Credit: Copernicus Climate Change Service). Repeating visualisation can readily show signficant changes across a data set.
 
 .. figure:: ../../../img/stripes_dover.png
    :target: https://www.reading.ac.uk/news/2023/University-News/White-Cliffs-of-Dover-display-climate-stripes
    :width: 100%
    :alt: Visualising climate stripes
 
-   Visualising climate stripes (Credit: University of Reading)
+   Visualising climate stripes (Credit: University of Reading). 
 
 .. figure:: https://pbs.twimg.com/media/Fx2tKJYWwAAaXHG?format=jpg&name=900x900
    :target: https://pbs.twimg.com/media/Fx2tKJYWwAAaXHG?format=jpg&name=900x900
@@ -58,9 +46,9 @@ Plots
 .. figure:: https://climate.copernicus.eu/sites/default/files/inline-images/ESOTC_Glaciericeloss_small_0.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
-   :alt: GLacial ice loss
+   :alt: Glacial ice loss
 
-   Glacial ice loss in the alps in 2022 (Credit: Copernicus Climate Change Service)
+   Glacial ice loss in the alps in 2022 (Credit: Copernicus Climate Change Service). Providing comparisons that people can readily understand, cna aid visualisation.
 
 
 .. raw:: html
@@ -74,5 +62,7 @@ Plots
     <embed>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have not seen anything like it. We can&#39;t compare this looming heat emergency to summer 1976.<br><br>A warmer world, thanks to human induced climate change, makes it almost effortless to break extreme heat thresholds. We continue to see this across the planet - not just in Europe. <a href="https://t.co/z0FpZ3Mcbb">pic.twitter.com/z0FpZ3Mcbb</a></p>&mdash; Scott Duncan (@ScottDuncanWX) <a href="https://twitter.com/ScottDuncanWX/status/1548728369738661891?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
+
+Clear comparisons, with use of consisistent style, labelling, and data baselines, can tell stories of change, and refute inaccurate claims.
 
 
