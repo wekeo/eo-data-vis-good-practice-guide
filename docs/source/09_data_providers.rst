@@ -26,7 +26,9 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - Provider
      - Services
      - Available data
-   * - **Satellite providers**  
+   * - **Satellite providers**
+     -
+     -
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
        | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
@@ -62,6 +64,8 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
      - Situational map information on current emergencies from various sensors and data providers.
    * - **EUMETSAT Satellite Application Facilities (SAFs)**
+     -
+     -
    * - `Ocean and Sea Ice SAF (OSI SAF) <https://osi-saf.eumetsat.int/>`_
    * - `Atmospheric Composition SAF (AC SAF) <https://acsaf.org/>`_
    * - `Climate Monitoring SAF (CM SAF) <https://www.cmsaf.eu/EN/Home/>`_
