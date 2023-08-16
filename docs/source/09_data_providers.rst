@@ -26,7 +26,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - Provider
      - Services
      - Available data
-   * - Satellite providers
+   * - **Satellite agencies**
      -
      -
    * - `EUMETSAT <https://www.eumetsat.int>`_
