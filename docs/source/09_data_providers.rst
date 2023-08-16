@@ -19,16 +19,13 @@ Data providers and services
 ---------------------------
 Below is a non-exhaustive list of data providers alongside some of their associated services - please do suggest additions! 
 
-.. list-table:: Data providers and services
+.. list-table:: Satellite agencies
    :widths: 20 20 60
    :header-rows: 1
 
    * - Provider
      - Services
      - Available data
-   * - **Satellite agencies**
-     -
-     -
    * - `EUMETSAT <https://www.eumetsat.int>`_
      - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
        | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
@@ -39,16 +36,26 @@ Below is a non-exhaustive list of data providers alongside some of their associa
        | `EO Gateway <https://earth.esa.int/eogateway/catalog>`_
        | `Ocean Virtual Laboratory <https://ovl.oceandatalab.com/>`_
      - Atmospheric and marine satellite products from research and operational missions.
-   * - **Numerical weather prediction providers**
-     -
-     - 
+
+.. list-table:: Numerical weather prediction providers
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
    * - `European Centre for Medium Range Weather Forecasting (ECMWF) <https://www.ecmwf.int>`_
      - | `Data archive <https://www.ecmwf.int/en/forecasts/datasets>`_ (API)
        | `Chart viewer and browser <https://www.ecmwf.int/en/forecasts/charts>`_
      - Reanalysis and forecast charts and data sets. Many products available through the Copernicus Climate Data Store.
-   * - **Copernicus services**
-     -
-     -
+
+.. list-table:: Copernicus services
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
    * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
      - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
        | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
@@ -67,9 +74,15 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
      - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
      - Situational map information on current emergencies from various sensors and data providers.
-   * - **EUMETSAT Satellite Application Facilities (SAFs)**
-     -
-     -
+
+
+.. list-table:: EUMETSAT Satellite Application Facilities (SAFs)
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
    * - `Ocean and Sea Ice SAF (OSI SAF) <https://osi-saf.eumetsat.int/>`_
      -
      -
@@ -85,15 +98,25 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - `Hydrology and Water Management SAF (H SAF) <https://hsaf.meteoam.it/>`_
      -
      -
-   * - **Cloud providers**
-     -
-     -
+
+.. list-table:: Cloud providers
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
    * - WEkEO
      -
      -
-   * - **Commercial services**
-     -
-     -
+
+.. list-table:: Commercial services
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
    * - Sentinel-hub
      -
      -
