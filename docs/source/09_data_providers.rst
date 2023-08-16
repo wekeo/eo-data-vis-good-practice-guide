@@ -19,52 +19,81 @@ Data providers and services
 ---------------------------
 Below is a non-exhaustive list of data providers alongside some of their associated services - please do suggest additions! 
 
-.. flat-table:: flat-table example
-   :header-rows: 2
-   :stub-columns: 1
-   :widths: 1 1 1 1 2
-   :class: my-class
-   :name: my-flat-table
+.. list-table:: Data providers and services
+   :widths: 20 20 60
+   :header-rows: 1
 
-   * - :rspan:`1` head / stub
-     - :cspan:`3` head 1.1-4
-
-   * - head 2.1
-     - head 2.2
-     - head 2.3
-     - head 2.4
-
-   * .. row body 1 / this is a comment
-
-     - row 1
-     - :rspan:`2` cell 1-3.1
-     - cell 1.2
-     - cell 1.3
-     - cell 1.4
-
-   * .. Comments and targets are allowed on *table-row* stage.
-     .. _`row body 2`:
-
-     - row 2
-     - cell 2.2
-     - :rspan:`1` :cspan:`1`
-       cell 2.3 with a span over
-
-       * col 3-4 &
-       * row 2-3
-
-   * - row 3
-     - cell 3.2
-
-   * - row 4
-     - cell 4.1
-     - cell 4.2
-     - cell 4.3
-     - cell 4.4
-
-   * - row 5
-     - cell 5.1 with automatic span to rigth end
-
-   * - row 6
-     - cell 6.1
-     - ..
+   * - Provider
+     - Services
+     - Available data
+   * - **Satellite agencies**
+     -
+     -
+   * - `EUMETSAT <https://www.eumetsat.int>`_
+     - | `EUMETView <https://view.eumetsat.int>`_ (WMS/WFS/WCS)
+       | `EUMETSAT Data Store <https://data.eumetsat.int>`_ (Web GUI/API)
+       | `EUMETSAT Data Centre <https://archive.eumetsat.int/usc/UserServicesClient.html>`_ (Web order; authentication required)
+     - Weather, climate, atmospheric and marine satellite products at operational, reprocessed and climate scales.
+   * - `European Space Agency (ESA) <https://www.esa.int>`_
+     - | `Sentinel SciHub <https://scihub.copernicus.eu/>`_ (Web GUI/API)
+       | `EO Gateway <https://earth.esa.int/eogateway/catalog>`_
+       | `Ocean Virtual Laboratory <https://ovl.oceandatalab.com/>`_
+     - Atmospheric and marine satellite products from research and operational missions.
+   * - **Numerical weather prediction providers**
+     -
+     - 
+   * - `European Centre for Medium Range Weather Forecasting (ECMWF) <https://www.ecmwf.int>`_
+     - | `Data archive <https://www.ecmwf.int/en/forecasts/datasets>`_ (API)
+       | `Chart viewer and browser <https://www.ecmwf.int/en/forecasts/charts>`_
+     - Reanalysis and forecast charts and data sets. Many products available through the Copernicus Climate Data Store.
+   * - **Copernicus services**
+     -
+     -
+   * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
+     - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
+       | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
+     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at operational, reprocessed and climate scales.
+   * - `Copernicus Atmospheric Monitoring Service (CAMS) <https://atmosphere.copernicus.eu/>`_
+     - | `Daily charts <https://atmosphere.copernicus.eu/charts/packages/cams/>`_    
+       | `Atmospheric Data Store <https://atmosphere.copernicus.eu/data>`_ (Web GUI/API)
+     - Atmopsheric charts and data from from satellites and numerical models at near operational and reprocessed scales.
+   * - `Copernicus Climate Change Service (C3S) <https://climate.copernicus.eu/>`_
+     - | `Climate Data Store <https://cds.climate.copernicus.eu/#!/home>`_ (Web GUI/API)
+     - Climate indicators, data and reports for the atmosphere, ocean and cryosphere.
+   * - `Copernicus Land Service (CLMS) <https://land.copernicus.eu/>`_
+     - | `Land Service Portal <https://land.copernicus.vgt.vito.be/>`_ (Web GUI)
+       | `Product access <https://land.copernicus.eu/global/access>`_ (Web API/FTP)
+     - Land products.
+   * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
+     - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
+     - Situational map information on current emergencies from various sensors and data providers.
+   * - **EUMETSAT Satellite Application Facilities (SAFs)**
+     -
+     -
+   * - `Ocean and Sea Ice SAF (OSI SAF) <https://osi-saf.eumetsat.int/>`_
+     -
+     -
+   * - `Atmospheric Composition SAF (AC SAF) <https://acsaf.org/>`_
+     -
+     -
+   * - `Climate Monitoring SAF (CM SAF) <https://www.cmsaf.eu/EN/Home/>`_
+     -
+     -
+   * - `Land Surface Analysis SAF (LSA SAF) <https://landsaf.ipma.pt/en/>`_
+     -
+     -
+   * - `Hydrology and Water Management SAF (H SAF) <https://hsaf.meteoam.it/>`_
+     -
+     -
+   * - **Cloud providers**
+     -
+     -
+   * - WEkEO
+     -
+     -
+   * - **Commercial services**
+     -
+     -
+   * - Sentinel-hub
+     -
+     -

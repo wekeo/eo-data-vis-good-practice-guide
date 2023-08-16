@@ -18,8 +18,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.youtube',
-    'linuxdoc.rstFlatTable'
+    'sphinxcontrib.youtube'
 ]
 
 intersphinx_mapping = {
