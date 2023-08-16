@@ -72,7 +72,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
        | `Product access <https://land.copernicus.eu/global/access>`_ (Web API/FTP)
      - Land products.
    * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
-     - | `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
+     - `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
      - Situational map information on current emergencies from various sensors and data providers.
 
 
@@ -81,23 +81,17 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    :header-rows: 1
 
    * - Provider
-     - Services
-     - Available data
+     - Available services and data
    * - `Ocean and Sea Ice SAF (OSI SAF) <https://osi-saf.eumetsat.int/>`_
-     -
-     -
+     - Sea surface temperature, wind and sea ice product access, publications and visualisations.
    * - `Atmospheric Composition SAF (AC SAF) <https://acsaf.org/>`_
-     -
-     -
+     - Atmospheric composition product access
    * - `Climate Monitoring SAF (CM SAF) <https://www.cmsaf.eu/EN/Home/>`_
-     -
-     -
+     - Climate product access, and latest images
    * - `Land Surface Analysis SAF (LSA SAF) <https://landsaf.ipma.pt/en/>`_
-     -
-     -
+     - Land product access and product gallery
    * - `Hydrology and Water Management SAF (H SAF) <https://hsaf.meteoam.it/>`_
-     -
-     -
+     - Hydrological product access
 
 .. list-table:: Cloud providers
    :widths: 20 20 60
@@ -106,9 +100,9 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - Provider
      - Services
      - Available data
-   * - WEkEO
-     -
-     -
+   * - `WEkEO <https://www.wekeo.eu/>`_
+     - `Data viewer and downloader <https://www.wekeo.eu/data>`_
+     - EUMETSAT, ESA and Copernicus service data across multiple thematics
 
 .. list-table:: Commercial services
    :widths: 20 20 60
@@ -117,6 +111,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
    * - Provider
      - Services
      - Available data
-   * - Sentinel-hub
-     -
-     -
+   * - `Sentinel Hub <https://www.sentinel-hub.com/>`_
+     - |`EO Browser <https://www.sentinel-hub.com/explore/eobrowser/>`_
+       |`API data access <https://www.sentinel-hub.com/develop/api/>`_
+     - Various products from the Copernicus Sentinel Programme and Copernicus Services, as well as products from Landsat, ENVISAT, MODIS and commercial providers.
