@@ -20,7 +20,7 @@ Data providers and services
 Below is a non-exhaustive list of data providers alongside some of their associated services - please do suggest additions! 
 
 .. list-table:: Satellite agencies
-   :widths: 20 20 60
+   :widths: 20 40 40
    :header-rows: 1
 
    * - Provider
@@ -38,7 +38,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - Atmospheric and marine satellite products from research and operational missions.
 
 .. list-table:: Numerical weather prediction providers
-   :widths: 20 20 60
+   :widths: 20 40 40
    :header-rows: 1
 
    * - Provider
@@ -50,7 +50,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - Reanalysis and forecast charts and data sets. Many products available through the Copernicus Climate Data Store.
 
 .. list-table:: Copernicus services
-   :widths: 20 20 60
+   :widths: 20 40 40
    :header-rows: 1
 
    * - Provider
@@ -77,7 +77,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
 
 
 .. list-table:: EUMETSAT Satellite Application Facilities (SAFs)
-   :widths: 20 20 60
+   :widths: 40 60
    :header-rows: 1
 
    * - Provider
@@ -94,7 +94,7 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - Hydrological product access
 
 .. list-table:: Cloud providers
-   :widths: 20 20 60
+   :widths: 20 40 40
    :header-rows: 1
 
    * - Provider
@@ -112,6 +112,6 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - Services
      - Available data
    * - `Sentinel Hub <https://www.sentinel-hub.com/>`_
-     - |`EO Browser <https://www.sentinel-hub.com/explore/eobrowser/>`_
-       |`API data access <https://www.sentinel-hub.com/develop/api/>`_
+     - | `EO Browser <https://www.sentinel-hub.com/explore/eobrowser/>`_
+       | `API data access <https://www.sentinel-hub.com/develop/api/>`_
      - Various products from the Copernicus Sentinel Programme and Copernicus Services, as well as products from Landsat, ENVISAT, MODIS and commercial providers.
