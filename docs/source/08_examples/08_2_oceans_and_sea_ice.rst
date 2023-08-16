@@ -7,7 +7,7 @@ Oceans and sea ice visualisations
    :width: 100%
    :alt: Algal blooms caught in an eddy
 
-   Algal blooms caught in an eddy (Credit: Aida Alvera-Azcárate and Sentinel-Hub)
+   Algal blooms caught in an eddy (Credit: Aida Alvera-Azcárate and Sentinel-Hub). Satellite data can reveal underlying physics, beautiful painting-like patterns, and risks to humans (such as those from some types of algal blooms).
 
 //
 
@@ -16,7 +16,7 @@ Oceans and sea ice visualisations
    :width: 100%
    :alt: Viewing ocean colour signals with different palettes
 
-   Viewing ocean colour signals with different palettes (Credit: Aida Alvera-Azcárate)
+   Viewing ocean colour signals with different palettes (Credit: Aida Alvera-Azcárate). Whilst providing information is a core aim of most EO visualisation, artistic and creative approaches can also be inspiring.
 
 //
 
@@ -25,7 +25,7 @@ Oceans and sea ice visualisations
    :width: 100%
    :alt: Eddy dynamics in the Balearic Sea
 
-   Eddy dynamics in the Balearic Sea (Credit: JGR Oceans;Wiley)
+   Eddy dynamics in the Balearic Sea (Credit: JGR Oceans;Wiley). Combining EO data sources can be useful when explaining phenomena.
 
 //
 
@@ -34,7 +34,7 @@ Oceans and sea ice visualisations
    :width: 100%
    :alt: CMEMS surface geostrophic velocity
 
-   Surface geostrophic velocity product in Arctic and Antarctic sea ice coverage since 1980 (Credit: Copernicus Marine Service)
+   Surface geostrophic velocity product in Arctic and Antarctic sea ice coverage since 1980 (Credit: Copernicus Marine Service). Visualisation platforms such as MyOcean can allow for rapid exploration and visualisation of data.
 
 //
 
@@ -43,7 +43,7 @@ Oceans and sea ice visualisations
    :width: 100%
    :alt: OSI SAF and C3S Barent sea ice coverage
 
-   Sea ice coverage in the Barents Sea (Credit: OSI SAF and Copernicus Climate Change Service)
+   Sea ice coverage in the Barents Sea (Credit: OSI SAF and Copernicus Climate Change Service). Many datasets contain variables offering different perspectives on a domain, and can be presented in different ways to provide a more complete picture of a situation.
 
 //
 
@@ -60,7 +60,7 @@ Visible imagery from Sentinel-2 highlighted reported changes in Venice during a 
    :width: 100%
    :alt: OSI SAF Arctic ice coverage time series
 
-   Annual change in Arctic sea ice coverage in May since 1980 (Credit: Associated Free Press and EUMETSAT OSI SAF)
+   Annual change in Arctic sea ice coverage in May since 1980 (Credit: Associated Free Press and EUMETSAT OSI SAF). Clear labelling, and annotation can help make visualisations much more understandable. Including links to sources can help viewers recognise legitimate data sources.
 
 //
 
@@ -69,7 +69,7 @@ Visible imagery from Sentinel-2 highlighted reported changes in Venice during a 
    :width: 100%
    :alt: OSI SAF Arctic and Antarctic ice coverage time series
 
-   Change in Arctic and Antarctic sea ice coverage since 1980 (Credit: Le Monde and EUMETSAT OSI SAF)
+   Change in Arctic and Antarctic sea ice coverage since 1980 (Credit: Le Monde and EUMETSAT OSI SAF). More and more news sites are providing visualisations via their own dashboards. Comparing multiple data sources can help communicate the reliability of key conclusions in stories told with EO data.
 
 //
 
@@ -78,4 +78,4 @@ Visible imagery from Sentinel-2 highlighted reported changes in Venice during a 
    :width: 100%
    :alt: Satellite-based oil spill tracking
 
-   Satellite use in oil spill tracking (Credit: Orbital EOS and CMCC)
+   Satellite use in oil spill tracking (Credit: Orbital EOS and CMCC). EO data can be supplemented with other data sources towards a wide variety, of societally and environmentally valuable applications.
