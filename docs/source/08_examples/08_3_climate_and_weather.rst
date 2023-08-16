@@ -3,8 +3,6 @@
 Climate and weather visualisations
 ----------------------------------
 
-
-
 .. raw:: html
 
     <embed>
