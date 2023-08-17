@@ -13,7 +13,7 @@ There are two ways that you can contribute. In both cases you will need to creat
 
 .. note::
 
-You can access the GitHub source code for any *Read the Docs* page by clicking on the small "pencil" icon on the top of each page.
+You can access the GitHub source code for any *Read the Docs* page by clicking on the small "pencil" icon on the top of each page. You can then edit and submit a pull request. 
 
 Contributors should be careful not to violate the associated terms of the Creative Commons licence, making sure that any material shared (images etc) are permitted to be used in this context, and appropriately attributed. If contributors add new images, they should attribute to themselves and implicitly agree to the resharing of those images under the terms of the license associated with this guide. As far as possible, contributors should seek to work within the currently defined structure of the document, however new sections can be proposed, if they are a significant addition not represented in the current structure. New contributors should add their names to the author list above, with their merge request.
 
