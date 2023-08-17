@@ -7,9 +7,15 @@ Welcome to the Earth observation data visualisation good practice guide
   :width: 100%
   :alt: Earth Observation Data Visualisation workshop banner image
 
-.. warning::
+Throughout the spring of 2023, and under the umbrella of the Copernicus Programme, EUMETSAT coordinated the production of a series of workshops focussed on effective ways to visualise Earth observation data. This series brought together perspectives and opinions from journalists, scientists and remote sensing practitioners from operational agencies and industry. The series offered advice on how to craft impactful stories using products and imagery derived from satellite records, as well as giving practical examples and demonstrations of data use and access. This document, the Earth observation data visualisation good practice guide, synthesises and summarises the main points of this webonar series, giving examples of effective use of story-telling using satellite data in a variety of contexts.
 
-   This project is under active development. If you wish to contribute to the document or share an opinion on it, we'd love to hear from you. Please consult the :ref:`Contribution guidelines <contribution_guidelines>` section for information on how you can get involved.
+The guide is by no means a comprehensive overview of all satellite applications, and is unlikely to ever be. It is also not a compendium of **all** good examples of data visualisation using satellite data, but rather offers representative examples. The project is ongoing, and open, and you should feel free to contribute to it should you have opinions to share, examples to add, or constructive criticism to share. If you wish to access the primary material used to create this guide, you can find links to the presentations on the :ref:`workshop presentation <workshop_presentations>` page, or links to the YouTube videos of the presentations on the :ref:`introduction <introduction>` page.
+
+.. info::
+
+   This project is open to community development. If you wish to contribute to the document or share an opinion on it, we'd love to hear from you. Please consult the :ref:`Contribution guidelines <contribution_guidelines>` section for information on how you can get involved.
+
+This guide is written using `Read the docs <https://about.readthedocs.com/>`_. It's source documentation can be found in the following `git repository <https://github.com/wekeo/eo-data-vis-good-practice-guide>`_. For any questions about the guide, please contact `ops@eumetsat.int <mailto:ops@eumetsat.int>`_. The webinar series and resulting guide was delivered, under contract to EUMETSAT, by `SpaceTec Partners <https://www.spacetec.partners/>`_ and `Innoflair UG <https://www.innoflair.com/>`_.
 
 Contents
 --------
