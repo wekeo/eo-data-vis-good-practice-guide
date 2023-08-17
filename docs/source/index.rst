@@ -55,3 +55,15 @@ Contents
    :width: 25%
 .. image:: ../../img/INNOFLAIR_logo.png
    :width: 25%
+
+
+.. |logo1| image:: ../../img/EUMETSAT_logo.png    
+   :scale: 100%
+   :align: middle
+.. |logo2| image:: ../../img/EUMETSAT_logo.png
+   :scale: 50%
+   :align: top
+
++---------+---------+
+| |logo1| | |logo2| |
++---------+---------+
