@@ -10,3 +10,6 @@ Examples stories and visualisation for different environmental thematics
    08_2_oceans_and_sea_ice
    08_3_climate_and_weather
    08_4_climate_extremes
+
+For further examples from news media, also see the page on :ref:`<journalists-perspectives>`.
+
