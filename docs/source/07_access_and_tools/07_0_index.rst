@@ -20,4 +20,4 @@ Below, we present some visualising approaches that address these considerations,
    07_4_software_packages
    07_5_code_based_approaches
    07_6_summary_reports
-   07_7_other_visualisation_guides
+   07_7_other_vis_guides
