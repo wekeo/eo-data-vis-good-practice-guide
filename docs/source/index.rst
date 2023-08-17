@@ -33,3 +33,24 @@ Contents
    08_examples/08_0_index
    09_data_providers
    10_workshop_presentations
+
+.. image:: ../../img/COPERNICUS_logo.png
+   :target: https://www.copernicus.eu/en
+   :align: center
+   :width: 50%
+   :alt: Copernicus logo
+
+.. image:: ../../img/EUMETSAT_logo.png
+   :width: 25%
+   
+.. image:: ../../img/MOI_logo.png
+   :width: 25%
+.. image:: ../../img/ECMWF_logo.png
+   :width: 25%
+.. image:: ../../img/EEA_logo.png
+   :width: 25%
+
+.. image:: ../../img/SPACETEC_logo.png
+   :width: 25%
+.. image:: ../../img/INNOFLAIR_logo.png
+   :width: 25%
