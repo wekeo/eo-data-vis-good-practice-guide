@@ -8,6 +8,7 @@ Climate extremes: heatwaves, changes in ice and drought visualisations
     <embed>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Temperature?src=hash&amp;ref_src=twsrc%5Etfw">#Temperature</a> anomalies 1880-2017 by country 🌡. No matter how you visualize it, it looks scary! <a href="https://twitter.com/hashtag/GISTEMP?src=hash&amp;ref_src=twsrc%5Etfw">#GISTEMP</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/climatechange?src=hash&amp;ref_src=twsrc%5Etfw">#climatechange</a> <a href="https://twitter.com/hashtag/globalwarming?src=hash&amp;ref_src=twsrc%5Etfw">#globalwarming</a><br>Download / watch hi-res 🎞: <a href="https://t.co/ZdGPVTM5yO">https://t.co/ZdGPVTM5yO</a> <a href="https://t.co/cAn9wG8FPU">pic.twitter.com/cAn9wG8FPU</a></p>&mdash; Antti Lipponen (@anttilip) <a href="https://twitter.com/anttilip/status/1033342041474969601?ref_src=twsrc%5Etfw">August 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
+
 Animations can be used to great effect to enhance visualisations and are particularly popular in newer social media contexts that favour video formats.
 
 .. figure:: ../../../img/Marine_HW.png
@@ -15,22 +16,29 @@ Animations can be used to great effect to enhance visualisations and are particu
    :width: 100%
    :alt: Visualising marine heat waves
 
-   Visualising marine heat waves (Credit: marineheatwaves.org). Indices can simplify visualisations to give viewers a more relative understanding of a phenomena and its impacts.
+   Visualising marine heat waves (Credit: marineheatwaves.org).
+
+Indices can simplify visualisations to give viewers a more relative understanding of a phenomena and its impacts.
 
 .. figure:: ../../../img/RSLR.png
    :target: https://marine.copernicus.eu/
    :width: 100%
    :alt: Visualising regional sea level rise
 
-   Visualising sea level trends (Credit: Copernicus Marine and Climate Change Services). Divergent colour scales can be useful for visualising trends and anomalies.
+   Visualising sea level trends (Credit: Copernicus Marine and Climate Change Services).
+
+Divergent colour scales can be useful for visualising trends and anomalies.
 
 ..  youtube:: br9N_Cqmfz0
-Video based formats offer an excellent way to combine static images, animations and narration to explain complex topics. 
+
+Video based formats offer an excellent way to combine static images, animations and narration to explain complex topics.
+
 .. raw:: html
 
     <embed>
       <blockquote class="twitter-tweet"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/Floods?src=hash&amp;ref_src=twsrc%5Etfw">#Floods</a> in <a href="https://twitter.com/hashtag/EmiliaRomagna?src=hash&amp;ref_src=twsrc%5Etfw">#EmiliaRomagna</a>! <a href="https://twitter.com/hashtag/Copernicus?src=hash&amp;ref_src=twsrc%5Etfw">#Copernicus</a> <a href="https://twitter.com/hashtag/Sentinel3?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel3</a> captured on May 4 multiple sediments plumes into the Adriatic. <a href="https://twitter.com/hashtag/Italy?src=hash&amp;ref_src=twsrc%5Etfw">#Italy</a> <br>La violenta <a href="https://twitter.com/hashtag/alluvione?src=hash&amp;ref_src=twsrc%5Etfw">#alluvione</a> che ha colpito l&#39;EmiliaRomagna vista da satellite con lo sversamento dei sedimenti lungo oltre 33 km di costa. <a href="https://twitter.com/hashtag/Ravenna?src=hash&amp;ref_src=twsrc%5Etfw">#Ravenna</a><a href="https://twitter.com/Giulio_Firenze?ref_src=twsrc%5Etfw">@Giulio_Firenze</a> <a href="https://t.co/mbTC9N88EU">pic.twitter.com/mbTC9N88EU</a></p>&mdash; ADAM Platform (@PlatformAdam) <a href="https://twitter.com/PlatformAdam/status/1654135153554325508?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
+
 Satellite products can provide broad perspectives on the impacts of events, such as in this example, where the impacts of floods on land are caputred further in their impacts on the coastal marine environment. These can be particular powerful to bring a sense of scale to images on the ground such as those shown in the video below.
 
 ..  youtube:: CyctkySOLx0
@@ -41,7 +49,9 @@ Satellite products can provide broad perspectives on the impacts of events, such
    :width: 100%
    :alt: View options for the Copernicus Emergency Management Service (CEMS)
 
-   View options for the Copernicus Emergency Management Service (CEMS) (Credit: Copernicus Emergency Management Service). Rapid and clear visualisation of core information is essential for disaster response.
+   View options for the Copernicus Emergency Management Service (CEMS) (Credit: Copernicus Emergency Management Service).
+
+Rapid and clear visualisation of core information is essential for disaster response.
 
 .. raw:: html
 

@@ -66,7 +66,6 @@ Contents
    :target: https://www.spacetec.partners/
    :alt: SpaceTec Partners logo
 
-
 .. image:: ../../img/INNOFLAIR_logo.png
    :width: 10%
    :target: https://www.innoflair.com/

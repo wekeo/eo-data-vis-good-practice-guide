@@ -18,7 +18,9 @@ Visualisations have the potential to become memes, repeated in many contexts.
    :width: 100%
    :alt: ERA5 annual mean temperature anomaly
 
-   ERA5 annual mean temperature anomaly (Credit: Copernicus Climate Change Service). Repeating visualisation can readily show signficant changes across a data set.
+   ERA5 annual mean temperature anomaly (Credit: Copernicus Climate Change Service).
+
+Repeating visualisation can readily show signficant changes across a data set.
 
 .. figure:: ../../../img/stripes_dover.png
    :target: https://www.reading.ac.uk/news/2023/University-News/White-Cliffs-of-Dover-display-climate-stripes
@@ -46,7 +48,9 @@ Visualisations have the potential to become memes, repeated in many contexts.
    :width: 100%
    :alt: Glacial ice loss
 
-   Glacial ice loss in the alps in 2022 (Credit: Copernicus Climate Change Service). Providing comparisons that people can readily understand, cna aid visualisation.
+   Glacial ice loss in the alps in 2022 (Credit: Copernicus Climate Change Service).
+
+Providing comparisons that people can readily understand, cna aid visualisation.
 
 
 .. raw:: html
