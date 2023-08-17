@@ -37,23 +37,35 @@ Contents
 ------------
 
 .. image:: ../../img/COPERNICUS_logo.png
-   :target: https://www.copernicus.eu/en
    :align: center
    :width: 50%
+   :target: https://www.copernicus.eu/en
    :alt: Copernicus logo
 
 .. image:: ../../img/EUMETSAT_logo.png
    :width: 20%
+   :target: https://www.eumetsat.int
+   :alt: EUMETSAT logo
 .. image:: ../../img/MOI_logo.png
    :width: 20%
+   :target: https://www.mercator-ocean.eu/en/
+   :alt: MOI logo
 .. image:: ../../img/ECMWF_logo.png
    :width: 20%
+   :target: https://www.ecmwf.int/
+   :alt: ECMWF logo
 .. image:: ../../img/EEA_logo.png
    :width: 20%
+   :target: https://www.eea.europa.eu/en
+   :alt: EEA logo
 
 ------------
 
 .. image:: ../../img/SPACETEC_logo.png
-   :width: 15%
+   :width: 20%
+   :target: https://www.spacetec.partners/
+   :alt: SpaceTec Partners logo
 .. image:: ../../img/INNOFLAIR_logo.png
-   :width: 15%
+   :width: 20%
+   :target: https://www.innoflair.com/
+   :alt: Innoflair logo
