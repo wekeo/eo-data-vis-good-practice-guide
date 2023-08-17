@@ -42,12 +42,23 @@ Contents
    :width: 50%
    :alt: Copernicus logo
 
-.. list-table:: simple image grid
-   :class: borderless
-   * - .. image:: ../../img/EUMETSAT_logo.png
-     - .. image:: ../../img/MOI_logo.png
-     - .. image:: ../../img/ECMWF_logo.png
-     - .. image:: ../../img/EEA_logo.png
+.. |logo1| image:: ../../img/EUMETSAT_logo.png
+   :width: 20pt
+   :height: 20pt
+.. |logo2| image:: ../../img/MOI_logo.png
+   :width: 20pt
+   :height: 20pt
+.. |logo3| image:: ../../img/ECMWF_logo.png
+   :width: 20pt
+   :height: 20pt
+.. |logo4| image:: ../../img/EEA_logo.png
+   :width: 20pt
+   :height: 20pt
+
++---------+---------+---------+---------+
+| |logo1| | |logo2| | |logo3| | |logo4| |
++---------+---------+---------+---------+
+
 
 .. image:: ../../img/SPACETEC_logo.png
    :width: 25%
