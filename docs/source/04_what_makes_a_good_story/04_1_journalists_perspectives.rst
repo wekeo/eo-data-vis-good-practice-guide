@@ -20,39 +20,39 @@ Environmental stories featuring Earth observation data are appearing more and mo
    :width: 100%
    :alt: Der Spiegel air quality
   
-   Global air quality; particulate matter concentration (Credit: Der Spiegel)
+   *Global air quality; particulate matter concentration (Credit: Der Spiegel)*
 
 .. figure:: ../../../img/Le_Monde_floods.png
    :target: https://www.lemonde.fr/les-decodeurs/article/2022/09/07/avant-apres-les-inondations-catastrophiques-au-pakistan-vues-de-l-espace_6140573_4355770.html
    :width: 100%
    :alt: Le Monde Pakistan floods
 
-   Floods in Pakistan from Copernicus Sentinel-2 (Credit: Le Monde, Copernicus)
+   *Floods in Pakistan from Copernicus Sentinel-2 (Credit: Le Monde, Copernicus)*
 
 .. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/177B6/production/_115228169_a68a_iceberg-nc.png
    :target: https://www.bbc.co.uk/news/science-environment-54798031
    :width: 100%
    :alt: BBC A28 Iceberg
 
-   Following the trajectory of the A68a iceberg with Copernicus Sentinel-3 OLCI (Credit: BBC)
+   *Following the trajectory of the A68a iceberg with Copernicus Sentinel-3 OLCI (Credit: BBC)*
 
 .. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/5269/production/_125979012_turbines-nc.png
    :target: https://www.bbc.co.uk/news/science-environment-62227866
    :width: 100%
    :alt: BBC infrared turbines
 
-   Mapping industrial activity in the infra-red with HotSat-1 (Credit: BBC)
+   *Mapping industrial activity in the infra-red with HotSat-1 (Credit: BBC)*
 
 .. figure:: https://ichef.bbci.co.uk/news/976/cpsprodpb/12B3A/production/_130020667_nordstream.jpg
    :target: https://www.bbc.co.uk/news/science-environment-65775901
    :width: 100%
    :alt: BBC Nordtream pipeline
 
-   Capturing the Nordstream pipeline leak in the infra-red with HotSat-1 (Credit: BBC)
+   *Capturing the Nordstream pipeline leak in the infra-red with HotSat-1 (Credit: BBC)*
 
 .. figure:: https://www.washingtonpost.com/wp-stat/graphics/ai2html/BAREGLACIER/JVLNOZOJMNHU5LWJURSPSF42XI/eagle_island-xlarge.jpg
    :target: https://www.washingtonpost.com/climate-environment/2023/03/24/antarctica-peninsula-glaciers-snow-melt-warm-temperatures/
    :width: 100%
    :alt: Washington Post Eagle Island glacier
 
-   Mapping glacial coverage with Copernicus Sentinel-2 (Credit: Washington Post)
+   *Mapping glacial coverage with Copernicus Sentinel-2 (Credit: Washington Post)*

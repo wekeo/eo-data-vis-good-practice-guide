@@ -32,6 +32,8 @@ Divergent colour scales can be useful for visualising trends and anomalies.
 Video based formats offer an excellent way to combine static images, animations and narration to explain complex topics.
 
 ..  youtube:: br9N_Cqmfz0
+   :width: 100%
+   :align: center
 
 Satellite products can provide broad perspectives on the impacts of events, such as in this example, where the impacts of floods on land are caputred further in their impacts on the coastal marine environment. These can be particular powerful to bring a sense of scale to images on the ground such as those shown in the video below.
 
@@ -42,7 +44,9 @@ Satellite products can provide broad perspectives on the impacts of events, such
     </embed>
 
 ..  youtube:: CyctkySOLx0
-
+   :width: 100%
+   :align: center
+   
 Rapid and clear visualisation of core information is essential for disaster response.
 
 .. figure:: ../../../img/CEMS.png
