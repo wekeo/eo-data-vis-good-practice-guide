@@ -43,13 +43,13 @@ Contents
    :alt: Copernicus logo
 
 .. image:: ../../img/EUMETSAT_logo.png
-   :width: 25%
+   :width: 20%
 .. image:: ../../img/MOI_logo.png
-   :width: 25%
+   :width: 20%
 .. image:: ../../img/ECMWF_logo.png
-   :width: 25%
+   :width: 20%
 .. image:: ../../img/EEA_logo.png
-   :width: 25%
+   :width: 20%
 
 .. image:: ../../img/SPACETEC_logo.png
    :width: 25%
@@ -60,10 +60,16 @@ Contents
 .. |logo1| image:: ../../img/EUMETSAT_logo.png    
    :scale: 100%
    :align: middle
-.. |logo2| image:: ../../img/EUMETSAT_logo.png
-   :scale: 50%
-   :align: top
+.. |logo2| image:: ../../img/MOI_logo.png
+   :scale: 100%
+   :align: middle
+.. |logo3| image:: ../../img/ECMWF_logo.png    
+   :scale: 100%
+   :align: middle
+.. |logo4| image:: ../../img/EEA_logo.png
+   :scale: 100%
+   :align: middle   
 
-+---------+---------+
-| |logo1| | |logo2| |
-+---------+---------+
++---------+---------+---------+---------+
+| |logo1| | |logo2| | |logo3| | |logo4| |
++---------+---------+---------+---------+
