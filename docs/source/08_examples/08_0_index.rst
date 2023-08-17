@@ -11,5 +11,5 @@ Examples stories and visualisation for different environmental thematics
    08_3_climate_and_weather
    08_4_climate_extremes
 
-For further examples from news media, also see the page on :ref:`<journalists-perspectives>`.
+For further examples from news media, also see the page on :ref:`journalists perspective <journalists-perspectives>`.
 
