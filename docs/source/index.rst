@@ -11,7 +11,7 @@ Throughout the spring of 2023, and under the umbrella of the Copernicus Programm
 
 The guide is by no means a comprehensive overview of all satellite applications, and, given the pace of development in the space sector is unlikely to ever be. It is also not a compendium of all good examples of data visualisation using satellite data, but rather offers representative examples. However, the project is ongoing, and open, and you should feel free to contribute to it should you have opinions to share, examples to add, or constructive criticism to offer. If you wish to access the primary material used to create this guide, you can find links to the presentations on the :ref:`workshop presentation <workshop_presentations>` page, or links to the YouTube videos of the presentations on the :ref:`introduction <introduction>` page.
 
-.. info::
+.. note::
 
    This project is open to community development. If you wish to contribute to the document or share an opinion on it, we'd love to hear from you. Please consult the :ref:`Contribution guidelines <contribution_guidelines>` section for information on how you can get involved.
 
