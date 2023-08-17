@@ -7,5 +7,4 @@ Where "off the shelf" options for data visualisation do not exist, it is often n
 * `SNAP <https://step.esa.int/main/download/snap-download/>`_
 * `QGIS <https://www.qgis.org/en/site/>`_
 * `Copernicus Marine Service QGIS plugin <https://marine.copernicus.eu/services/user-learning-services/qgis-plugin-cmems-netcdf>`_
-
-https://cds.climate.copernicus.eu/cdsapp#!/toolbox
+* `Copernicus Climate Change Service toolbox <https://cds.climate.copernicus.eu/cdsapp#!/toolbox>`_

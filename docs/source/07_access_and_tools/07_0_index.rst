@@ -20,8 +20,4 @@ Below, we present some visualising approaches that address these considerations,
    07_4_software_packages
    07_5_code_based_approaches
    07_6_summary_reports
-
-Other
-
-* CMSAF: latest images: https://www.cmsaf.eu/EN/Quicklooks/latest_images_node.html
-
+   07_7_other_visualisation_guides
