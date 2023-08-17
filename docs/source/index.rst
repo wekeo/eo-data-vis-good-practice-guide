@@ -62,11 +62,13 @@ Contents
 ------------
 
 .. image:: ../../img/SPACETEC_logo.png
-   :width: 10%
+   :width: 20%
    :target: https://www.spacetec.partners/
    :alt: SpaceTec Partners logo
+   :align: right
 
 .. image:: ../../img/INNOFLAIR_logo.png
-   :width: 10%
+   :width: 20%
    :target: https://www.innoflair.com/
    :alt: Innoflair logo
+   :align: right
