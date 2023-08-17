@@ -44,10 +44,10 @@ Contents
 
 .. list-table:: simple image grid
    :class: borderless
-   - .. image:: ../../img/EUMETSAT_logo.png
-   - .. image:: ../../img/MOI_logo.png
-   - .. image:: ../../img/ECMWF_logo.png
-   - .. image:: ../../img/EEA_logo.png
+   * - .. image:: ../../img/EUMETSAT_logo.png
+     - .. image:: ../../img/MOI_logo.png
+     - .. image:: ../../img/ECMWF_logo.png
+     - .. image:: ../../img/EEA_logo.png
 
 .. image:: ../../img/SPACETEC_logo.png
    :width: 25%
