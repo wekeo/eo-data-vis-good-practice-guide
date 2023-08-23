@@ -2,18 +2,22 @@
 
 Journalists perspectives on environmental stories 
 -------------------------------------------------
+Journalists are increasingly working with Earth observation data to illustrate environmental stories. 
 
-Environmental stories featuring Earth observation data are appearing more and more on media platforms, produced by professional journalists. Since the early days of the first satellites and moon missions, images of the Earth, of ‘home’ have captured the interest of the public. Modern Earth observation offers the opportunity for the public to be amazed by things they have never seen, to observe extremes, to be connected to distant places on a daily basis. Modern media is not intimidated by the use of EO data - with data timeseries, radar, and thermal data being used in stories, not just classic visible optical imagery. 
+Earth observation offers the opportunity to amaze the public with things they have never seen, to observe extremes, or to be connected to distant places on a daily basis. 
 
-This scope of Earth observation data, has resulted in a diverse array of stories able to be told by journalists. 
+Journalists are confident using Earth observation data and as well as visible optical imagery via viewers, many will work with advanced time series data and radar and thermal data to complement articles. 
 
 Human interest stories, where Earth observation data is able to illustrate the scale and extent of impacts of environmental phenomena are, of course, popular. Floods, storms, fires, and earthquakes are more and more frequently being illustrated with satellite imagery. Frequently this data is also used directly in these contexts to protect lives and livelihoods, though this is not always included in the media stories. 
 
-Further examples have told stories about things that are novel, such as new sensor technology.  Similarly, there is a lot of interest in unusual events or observations such as particularly large volcanic eruptions and icebergs. Another related aspect that is appealing in the media,is change. Earth observation data can be used to provide before and after data associated to rapid changes e.g. in glaciers or lakes, or as a result of human actions. Whilst appealing these stories are approached by thorough journalists with caution, to ensure that change is communicated in appropriate context. 
+Further themes for stories involving Earth observation relate to new sensor technology, such as the lightning imager on the MTG-I1 satellites (`BBC News <https://www.bbc.com/news/science-environment-66081621>`_).  
+
+Similarly, there is a lot of interest in unusual events or observations such as particularly large volcanic eruptions and icebergs. 
+
+Another related aspect that is appealing in the media, is visualising change. Earth observation data can be used to provide before and after data associated to rapid changes e.g. in glaciers or lakes, or as a result of human actions. Whilst appealing these stories are approached by thorough journalists with caution, to ensure that change is communicated in appropriate context. 
 
 Examples of some of these stories can be found in the :ref:`example stories <example-stories>` section of this good practice guide, and recommendations on what makes a good Earth observation data visualisation for journalists can be found in the :ref:`What makes a visualisation..? <what-makes-a-visualisation>` section.
 
-Environmental stories featuring Earth observation data are appearing more and more on media platforms, produced by professional journalists. Since the early days of the first satellites and moon missions, images of the Earth, of ‘home’ have captured the interest of the public. Modern Earth observation offers the opportunity for the public to be amazed by things they have never seen, to observe extremes, to be connected to distant places on a daily basis.
 
 .. figure:: ../../../img/Der_Spiegel_air_quality.png
    :target: https://www.spiegel.de/ausland/luftverschmutzung-wo-die-luft-weltweit-am-schlechtesten-ist-und-was-dagegen-getan-werden-kann-a-1e542a7c-a46b-496f-901d-2fd0d85f3939
