@@ -11,7 +11,7 @@ Satellites can measure ocean temperatures, supporting understanding of climate c
 
 **Sea surface height**
 
-Ocean height measurements from altimeters provide insight into sea level rise, ocean currents, waves, and winds over the sea. This data can tell stories of slow climate change, natural oscillations, as well as extreme events related to storms etc
+Ocean height measurements from altimeters provide insight into sea level rise, ocean currents, waves, and winds over the sea. This data can tell stories of slow climate change, natural oscillations, as well as extreme events related to storms etc.
 
 **Ocean colour**
 
