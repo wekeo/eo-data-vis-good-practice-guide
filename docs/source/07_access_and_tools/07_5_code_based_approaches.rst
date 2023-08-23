@@ -8,8 +8,10 @@ Developing your own code can be time consuming, but offers the most flexible way
 * A similar catalogue of Jupyter Notebooks can be found in the `WEkEO Copernicus DIAS <https://www.wekeo.eu/>`_ catalog
 * Jupyter Books on `dust <https://dust.trainhub.eumetsat.int/docs/index.html>`_, `aerosol <https://dust.trainhub.eumetsat.int/docs/index.html>`_ and `fire <https://fire.trainhub.eumetsat.int/docs/index.html>`_ detection can be found on the EUMETSAT TrainHub portal.
 * The `SatPy python package <https://satpy.readthedocs.io/en/stable/>`_ offers extensive options for data visualisation for those working with weather satellites.
+* Radiant Earth provide machine learning 
 
 There are also a variety of cloud based infrastructures that can support you in connecting code to data.
 
 * The `Copernicus WEkEO Data and Information Access System (DIAS) <https://www.wekeo.eu/>`_ cloud platform offers a free Jupyter Hub that you can use to develop cloud-based code to exploit many Copernicus data records, including those from the Sentinel satellite series. It also offers a scalable cloud infrastructure for more advanced data processing.
+* `Radiant Earth <https://mlhub.earth/>`_ is a cloud-based library of models and Earth observation data. 
 * `Google Earth Engine <https://earthengine.google.com/>`_ can be used to explore a wide catalogue of free and open satellite data, particularly when the application is focussed on land applications.
