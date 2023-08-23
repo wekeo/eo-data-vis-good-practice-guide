@@ -21,3 +21,4 @@ Ocean colour frequently shows the biological response of the ocean to its physic
 
 For example visualisations, with discussions, see the :ref:`oceans and sea ice visualisations<oceans-sea-ice>` section.
 
+For access to Copernicus ocean data please see the `Copernicus Marine Service <https://marine.copernicus.eu/>`_. 
