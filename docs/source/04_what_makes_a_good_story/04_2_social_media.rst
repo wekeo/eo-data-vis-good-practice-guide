@@ -3,7 +3,9 @@
 Telling stories on social media 
 -------------------------------
 
-With the availability of social media, the opportunity has arisen for almost anyone to tell stories to almost anyone else. A variety of platforms exist, offering different formats to share data visualisations including images, videos, and text of varying length and style. The virality of social media has great potential to extend the reach of stories told there, however story telling through these platforms often comes with challenges. 
+With the availability of social media, the opportunity has arisen for almost anyone to tell stories to almost anyone else. 
+
+A variety of platforms exist, offering different formats to share data visualisations including images, videos, and text of varying length and style. The huge userbase for social media content means that there is great potential to reach large audiences, however story-telling through these platforms often comes with challenges. 
 
 Social media can be used to spread misinformation, and visualisation can be taken out of context. As such the need to be clear and accurate with visualisations is ever more important. 
 
