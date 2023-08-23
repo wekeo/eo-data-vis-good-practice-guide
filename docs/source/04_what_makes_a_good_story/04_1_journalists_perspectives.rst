@@ -10,7 +10,7 @@ Journalists are confident using Earth observation data and as well as visible op
 
 Human interest stories, where Earth observation data is able to illustrate the scale and extent of impacts of environmental phenomena are, of course, popular. Floods, storms, fires, and earthquakes are more and more frequently being illustrated with satellite imagery. Frequently this data is also used directly in these contexts to protect lives and livelihoods, though this is not always included in the media stories. 
 
-Further themes for stories involving Earth observation relate to new sensor technology, such as the lightning imager on the MTG-I1 satellites (`BBC News <https://www.bbc.com/news/science-environment-66081621>`_).  
+Further themes for stories involving Earth observation relate to new sensor technology, such as the new lightning imager on the MTG-I1 satellites (`BBC News <https://www.bbc.com/news/science-environment-66081621>`_).  
 
 Similarly, there is a lot of interest in unusual events or observations such as particularly large volcanic eruptions and icebergs. 
 
