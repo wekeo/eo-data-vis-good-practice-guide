@@ -3,15 +3,19 @@
 Telling stories on social media 
 -------------------------------
 
-With the availability of social media, the opportunity has arisen for almost anyone to tell stories to almost anyone else. 
+With the availability of social media, the opportunity has arisen for almost anyone to tell stories to almost anyone else. A variety of platforms exist, offering different formats to share data visualisations including images, videos, and text of varying length and style. 
 
-A variety of platforms exist, offering different formats to share data visualisations including images, videos, and text of varying length and style. The huge userbase for social media content means that there is great potential to reach large audiences, however story-telling through these platforms often comes with challenges. 
+The huge userbase for social media content means that there is great potential to reach large audiences, however story-telling through these platforms often comes with challenges. 
 
-Social media can be used to spread misinformation, and visualisation can be taken out of context. As such the need to be clear and accurate with visualisations is ever more important. 
+Social media can be used to spread misinformation, and visualisation can be taken out of context. As such, the need to be clear and accurate with visualisations is ever more important. 
 
-Many forms of visualisation can be successful on social media, including those which are more interpretive, or fun, can be effective to simply raise awareness of the EO sector and the data it can provide. EO data offers incredible opportunities for creativity, and sharing awe and wonder. 
+Many forms of visualisation can be successful on social media, including those which are more interpretive, or fun. 
 
-Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena. 
+Social media can be a very effective medium to reach new audiences and raise awareness of the Earth observation sector and the data that are available. 
+
+Earth observation offers incredible opportunities for creativity, and sharing awe and wonder, and quickly raising awareness of topical environmental issues. 
+
+Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena. Journalists also use social media to promote their content to large audiences.
 
 The examples below show how social media can be used to link satellite data with on the ground events. This can be done at the large scale (e.g. wildfires, algal blooms)...
 
