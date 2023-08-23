@@ -3,7 +3,7 @@
 What makes a visualisation…?
 ============================
 
-Whilst EO data is more available than ever, there are challenges to accessing it, using it, and most importantly in the context here – visualising it. Regardless of the particular topic, we can summarise some major aspects to consider about what makes a successful visualisation. 
+Whilst Earth observation data is more available than ever, there are challenges to accessing it, using it, and most importantly in the context here – visualising it. Regardless of the particular topic, we can summarise some major aspects to consider about what makes a successful visualisation. 
 
 .. toctree::
    :maxdepth: 2
