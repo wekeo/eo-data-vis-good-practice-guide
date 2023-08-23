@@ -5,6 +5,7 @@ license: LICENSE.txt
 # List of development authors
 Ben Loveday (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
+Neil Fletcher (EUMETSAT)
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
