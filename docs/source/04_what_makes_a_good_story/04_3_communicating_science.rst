@@ -3,12 +3,17 @@
 Communicating science 
 ---------------------
 
-Modern media offers huge opportunities for communicating science to the broadest possible audience.
+Modern media offers huge opportunities for science communication to very broad audiences.
 
-This is ever more frequently done by scientists themselves as a result of passion for sharing knowledge, and more and more commonly as an explicit requirement of their research activities. Engagement with media offers a number of benefits to the scientific community including:
+The role of communicating science is increasingly being taken on by scientists due to their passion for sharing knowledge and also as an explicit requirement of their research activities. 
 
-* Promotion of primary research (i.e. journal articles).
-* Acting as role models for future generations and helping to create a feeling of participation and ownership - showing that science is part of society.
+Scientists can cmmunicate through blogs and articles or social media posts, or through the mainstream media. 
+
+This can bring a number of benefits including:
+
+* Promotion of research (i.e. journal articles).
+* Establishment of scientists as role models for future generations and helping to create a feeling of participation and ownership - showing that science is part of society.
+* It is important to have active and credible scientific voices on environmental and climate issues against a background of rising misinformation. 
 * Creating cross disciplinary collaboration between scientists themselves.
 * Engagement with journalists who can then accurately tell stories to broader audiences. 
 
