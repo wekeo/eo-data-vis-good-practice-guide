@@ -5,7 +5,9 @@ Introduction
 
 While satellite imagery and other products have generally been available since the 1980s, the EU’s Copernicus programme has ushered in a new era of freely accessible Earth observation (EO) imagery and data. 
 
-Effective visualisation of Earth observation data is increasingly important to help raise awareness of environmental phenomena, extreme weather events and the impact of climate change. It is also important for accurate communication of scientific results at a time when mis- and disinformation around science and research is becoming more of an issue. 
+Effective visualisation of Earth observation data is increasingly important to help raise awareness of environmental phenomena, extreme weather events and the impact of climate change. 
+
+It is also important for accurate communication of scientific results at a time when mis- and disinformation around science and research is becoming more of an issue. 
 
 This good practice guide developed initially from a series of six data visualisation workshops that were funded by the European Commission `Copernicus programme <https://www.copernicus.eu/en>`_ and organised by `EUMETSAT <https://www.eumetsat.int>`_.
 
