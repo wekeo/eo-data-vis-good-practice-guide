@@ -28,6 +28,12 @@ The examples below show how social media can be used to link satellite data with
 .. raw:: html
 
     <embed>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nothing better than a <a href="https://twitter.com/hashtag/Sentinel3?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel3</a>-enabled view to enjoy the raw beauty of the <a href="https://twitter.com/hashtag/SaharaDesert?src=hash&amp;ref_src=twsrc%5Etfw">#SaharaDesert</a> 🛰️<br><br>This legendary desert has a variable climate 🏜️<br><br>Explore the possibilities offered by our data viewer to analyze Saharan climate patterns 👇<a href="https://t.co/6PZbrcR8GS">https://t.co/6PZbrcR8GS</a> <a href="https://t.co/y09SsvJL80">pic.twitter.com/y09SsvJL80</a></p>&mdash; WEkEO_dias (@WEkEO_dias) <a href="https://twitter.com/WEkEO_dias/status/1693547184182956242?ref_src=twsrc%5Etfw">August 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
+
+.. raw:: html
+
+    <embed>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🟠 German TV Station <a href="https://twitter.com/ZDF?ref_src=twsrc%5Etfw">@ZDF</a> using some <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel</a>-2🛰 <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a>🔥 satellite images processed by me in the <a href="https://twitter.com/sentinel_hub?ref_src=twsrc%5Etfw">@sentinel_hub</a> EO Browser in their &quot;Terra X&quot; documentary about fires. <a href="https://twitter.com/hashtag/RemoteSensing?src=hash&amp;ref_src=twsrc%5Etfw">#RemoteSensing</a> <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a> <a href="https://twitter.com/hashtag/scicomm?src=hash&amp;ref_src=twsrc%5Etfw">#scicomm</a> European🇪🇺 tax money at work! <a href="https://t.co/EkWDVNw390">pic.twitter.com/EkWDVNw390</a></p>&mdash; Pierre Markuse (@Pierre_Markuse) <a href="https://twitter.com/Pierre_Markuse/status/1495408098743308291?ref_src=twsrc%5Etfw">February 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
 
