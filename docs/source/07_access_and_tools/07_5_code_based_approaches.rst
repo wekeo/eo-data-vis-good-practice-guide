@@ -8,8 +8,16 @@ Both R and Python are supported by Project Jupyter, allowing them to be used to 
 
 However, we can recommend some start points.
 
+* A catalogue of Jupyter Notebooks for working with Copernicus marine and atmosphere data can be found in the `WEkEO Copernicus DIAS <https://notebooks.apps.mercator.dpi.wekeo.eu/>`_ catalog
+
+.. raw:: html
+
+    <embed>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">⚙️ Unlock the power of data processing with our <a href="https://twitter.com/hashtag/JupyterLab?src=hash&amp;ref_src=twsrc%5Etfw">#JupyterLab</a>!<br><br>Analyze and share data-driven insights using this versatile environment 💻<br><br>Experience how cloud computing enables collaborative workflows and efficient data exploration 🔍<a href="https://t.co/5UxAkRaSqj">https://t.co/5UxAkRaSqj</a> <a href="https://t.co/12hvIS1iBr">pic.twitter.com/12hvIS1iBr</a></p>&mdash; WEkEO_dias (@WEkEO_dias) <a href="https://twitter.com/WEkEO_dias/status/1692093557799059503?ref_src=twsrc%5Etfw">August 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
+
+
 * If you are working with EUMETSAT data you will find all of our Python based training code on our `EUMETLAB GitLab group <https://gitlab.eumetsat.int/eumetlab>`_. This contains a number of repositories containing Jupyter Notebooks showing how to work with our marine and atmospheric composition data.
-* A similar catalogue of Jupyter Notebooks can be found in the `WEkEO Copernicus DIAS <https://www.wekeo.eu/>`_ catalog
 * Jupyter Notebooks on `dust <https://dust.trainhub.eumetsat.int/docs/index.html>`_, `aerosol <https://dust.trainhub.eumetsat.int/docs/index.html>`_ and `fire <https://fire.trainhub.eumetsat.int/docs/index.html>`_ detection can be found on the EUMETSAT TrainHub portal.
 * The `SatPy python package <https://satpy.readthedocs.io/en/stable/>`_ offers extensive options for data visualisation for those working with weather satellites.
 * `Radiant Earth <https://mlhub.earth/>`_ provide Jupyter Notebooks and training data to help you work with Earth observation data and machine learning techniques. 
