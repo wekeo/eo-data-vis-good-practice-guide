@@ -17,7 +17,13 @@ Earth observation offers incredible opportunities for creativity, and sharing aw
 
 Social media also allows networking in support of storytelling. Journalists can use social networks to find experts to support visualisations and provide expert perspectives on environmental phenomena. Journalists also use social media to promote their content to large audiences.
 
-The examples below show how social media can be used to link satellite data with on the ground events. This can be done at the large scale (e.g. wildfires, algal blooms)...
+The examples below show how social media can be used to link satellite data with on the ground events. This can be done at the large scale (e.g. global, wildfires, algal blooms)...
+
+.. raw:: html
+
+    <embed>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A solar <a href="https://twitter.com/hashtag/Eclipse?src=hash&amp;ref_src=twsrc%5Etfw">#Eclipse</a> happened earlier today, visible from Africa, the Arabian Peninsula and much of Asia.<br><br>Here&#39;s how it looked from <a href="https://twitter.com/eumetsat?ref_src=twsrc%5Etfw">@eumetsat</a>&#39;s <a href="https://twitter.com/hashtag/Meteosat?src=hash&amp;ref_src=twsrc%5Etfw">#Meteosat</a> <a href="https://t.co/o7uiVJ8NaB">pic.twitter.com/o7uiVJ8NaB</a></p>&mdash; Simon Proud (@simon_sat) <a href="https://twitter.com/simon_sat/status/1274614370530742272?ref_src=twsrc%5Etfw">June 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </embed>
 
 .. raw:: html
 
