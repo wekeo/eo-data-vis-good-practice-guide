@@ -28,8 +28,15 @@ The examples below show how social media can be used to link satellite data with
 .. raw:: html
 
     <embed>
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nothing better than a <a href="https://twitter.com/hashtag/Sentinel3?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel3</a>-enabled view to enjoy the raw beauty of the <a href="https://twitter.com/hashtag/SaharaDesert?src=hash&amp;ref_src=twsrc%5Etfw">#SaharaDesert</a> 🛰️<br><br>This legendary desert has a variable climate 🏜️<br><br>Explore the possibilities offered by our data viewer to analyze Saharan climate patterns 👇<a href="https://t.co/6PZbrcR8GS">https://t.co/6PZbrcR8GS</a> <a href="https://t.co/y09SsvJL80">pic.twitter.com/y09SsvJL80</a></p>&mdash; WEkEO_dias (@WEkEO_dias) <a href="https://twitter.com/WEkEO_dias/status/1693547184182956242?ref_src=twsrc%5Etfw">August 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nothing better than a <a href="https://twitter.com/hashtag/Sentinel3?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel3</a>-enabled view to enjoy the raw beauty of the <a href="https://twitter.com/hashtag/SaharaDesert?src=hash&amp;ref_src=twsrc%5Etfw">#SaharaDesert</a> 🛰️<br><br>This legendary desert has a variable climate 🏜️<br><br>Explore the possibilities offered by our data viewer to analyze Saharan climate patterns 👇<a href="https://t.co/6PZbrcR8GS">https://t.co/6PZbrcR8GS</a> <a href="https://t.co/y09SsvJL80">pic.twitter.com/y09SsvJL80</a></p>&mdash; WEkEO_dias (@WEkEO_dias) <a href="https://twitter.com/WEkEO_dias/status/1693547184182956242?ref_src=twsrc%5Etfw">August 21,        2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
+
+.. raw:: html
+
+    <embed>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a><br><br>Major <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> 🔥 have broken out in <a href="https://twitter.com/hashtag/Greece?src=hash&amp;ref_src=twsrc%5Etfw">#Greece</a> 🇬🇷 over the last few hours<br><br>➡️In East Macedonia (+8,500 hectares have burned)<br>➡️On Evia, where 3 villages have been evacuated<br>➡️In Boeotia (visible in this <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️ image of 21/08), which resulted in a casualty <a href="https://t.co/LhJjh4lGNm">pic.twitter.com/LhJjh4lGNm</a></p>&mdash; Copernicus EU (@CopernicusEU) <a href="https://twitter.com/CopernicusEU/status/1693875046769373628?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 .. raw:: html
 
