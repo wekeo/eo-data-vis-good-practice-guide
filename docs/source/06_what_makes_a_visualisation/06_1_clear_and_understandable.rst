@@ -9,7 +9,9 @@ It perhaps goes without saying that any visualisation should be clear and legibl
 
 Beyond text, other labelling can make images more clear and understandable. Features of interest can be directly labelled, clearly indicating what a readers’ attention is being drawn to. 
 
-Features in an image may be obvious to an Earth observation scientist, or even someone familiar with the story in question, but they may not be obvious to someone without this background and/or someone seeing an image for the first time. Clear labelling of data sets used (and links to them), and use of plain text explanation of variables (rather than sector specific jargon) can also make understanding visualisations easier.
+Features in an image may be obvious to an Earth observation scientist, or even someone familiar with the story in question, but they may not be obvious to someone without this background and/or someone seeing an image for the first time. 
+
+Clear labelling of data sets used (and links to them), and use of plain text explanation of variables (rather than sector specific jargon) can also make understanding visualisations easier.
 
 **Scale**
 
@@ -19,7 +21,9 @@ Scale can also be important when creating visualisations with numerical data. In
 
 **Formats**
 
-Modern media consumption takes place increasingly through digital media on phones, tablets and laptops. For visuals to be clear and understandable, they increasingly need to be so in the context of multiple formats and sizes, in particular on screened devices such as mobile phones. To make visualisations accessible for more people it is also important to include alternative text in web based visualisations, to support text readers; and to avoid flashing GIF animations.
+Modern media consumption takes place increasingly through digital media on phones, tablets and laptops. For visuals to be clear and understandable, they increasingly need work in multiple formats and sizes, in particular on screened devices such as mobile phones. 
+
+To make visualisations accessible for more people it is also important to include alternative text in web based visualisations, to support text readers; and to avoid flashing GIF animations.
 
 **Colour** 
 
