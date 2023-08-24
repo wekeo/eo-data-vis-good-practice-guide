@@ -5,7 +5,7 @@ What makes a good environmental story for modern news media?
 
 The world is more connected than ever, with media platforms ranging from television, newspapers, and radio, through to online websites, video streaming services, and social media. 
 
-Those producing content for media range from journalists and communication experts, through to scientists, and everyday members of the public.
+Those producing content for media range from journalists and communication experts, through to scientists, and the public.
 
 With this diversity of platforms and voices, the opportunities for telling stories about the planet using Earth observation data are endless. 
 
