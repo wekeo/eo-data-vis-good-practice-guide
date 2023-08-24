@@ -8,6 +8,8 @@ The text here is based on a summary of the extensive contributions made during t
 
 * `Benjamin Loveday <mailto:ben.loveday@innoflair.com>`_ – Innoflair UG 
 * `Hayley Evers\-King <Hayley.EversKing@eumetsat.int>`_ - EUMETSAT
+* `Neil Fletcher <Neil.Fletcher@eumetsat.int>`_ - EUMETSAT
+
 
 Contributory authors include:
 
