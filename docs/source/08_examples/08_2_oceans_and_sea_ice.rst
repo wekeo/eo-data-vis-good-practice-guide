@@ -5,7 +5,7 @@ Oceans and sea ice visualisations
 
 Satellite data can reveal underlying physics, beautiful painting-like patterns, and risks to humans (such as those from some types of algal blooms).
 
-!.. figure:: ../../../img/Eddies1.png
+.. figure:: ../../../img/Eddies1.png
    :target: https://apps.sentinel-hub.com/eo-browser/
    :width: 100%
    :alt: Algal blooms caught in an eddy
@@ -15,7 +15,7 @@ Satellite data can reveal underlying physics, beautiful painting-like patterns, 
 
 Whilst providing information is a core aim of most EO visualisation, artistic and creative approaches can also be inspiring.
 
-!.. figure:: ../../../img/Eddies2.png
+.. figure:: ../../../img/Eddies2.png
    :target: https://apps.sentinel-hub.com/eo-browser/
    :width: 100%
    :alt: Viewing ocean colour signals with different palettes
@@ -24,7 +24,7 @@ Whilst providing information is a core aim of most EO visualisation, artistic an
 
 Combining EO data sources can be useful when explaining phenomena.
 
-!.. figure:: ../../../img/Eddies3.png
+.. figure:: ../../../img/Eddies3.png
    :target: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017589#
    :width: 100%
    :alt: Eddy dynamics in the Balearic Sea
@@ -34,7 +34,7 @@ Combining EO data sources can be useful when explaining phenomena.
 
 Visualisation platforms such as MyOcean can allow for rapid exploration and visualisation of data.
 
-!.. figure:: ../../../img/Surf_geo.png
+.. figure:: ../../../img/Surf_geo.png
    :target: https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A4326&t=1691755200000&z=0&center=-25.087923759109074%2C24.05597819633855&zoom=10.69622142850287&layers=W3siaWQiOiJjMSIsIm9wYWNpdHkiOjEsImxheWVySWQiOiJTRUFMRVZFTF9HTE9fUEhZX0w0X05SVF9PQlNFUlZBVElPTlNfMDA4XzA0Ni9kYXRhc2V0LWR1YWNzLW5ydC1nbG9iYWwtbWVyZ2VkLWFsbHNhdC1waHktbDRfMjAyMTEyL3N1cmZhY2VfZ2Vvc3Ryb3BoaWNfc2VhX3dhdGVyX3ZlbG9jaXR5IiwiekluZGV4IjoxMDAsImxvZ1NjYWxlIjpmYWxzZSwiY29sb3JtYXBJZCI6ImRlbnNlIn1d&basemap=dark
    :width: 100%
    :alt: CMEMS surface geostrophic velocity
@@ -43,7 +43,7 @@ Visualisation platforms such as MyOcean can allow for rapid exploration and visu
 
 Many datasets contain variables offering different perspectives on a domain, and can be presented in different ways to provide a more complete picture of a situation.
 
-!.. figure:: ../../../img/Barent_sea_ice.png
+.. figure:: ../../../img/Barent_sea_ice.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
    :alt: OSI SAF and C3S Barent sea ice coverage
@@ -60,7 +60,7 @@ Visible imagery from Sentinel-2 highlighted reported changes in Venice during a 
 
 Clear labelling, and annotation can help make visualisations much more understandable. Including links to sources can help viewers recognise legitimate data sources.
 
-!.. figure:: https://factcheck.afp.com/sites/default/files/styles/list_xl/public/medias/factchecking/g2/2022-05/eeca136988861b80b92492200de4e567.jpeg
+.. figure:: https://factcheck.afp.com/sites/default/files/styles/list_xl/public/medias/factchecking/g2/2022-05/eeca136988861b80b92492200de4e567.jpeg
    :target: https://factcheck.afp.com/doc.afp.com.32AB8TN
    :width: 100%
    :alt: OSI SAF Arctic ice coverage time series
@@ -69,7 +69,7 @@ Clear labelling, and annotation can help make visualisations much more understan
 
 More and more news sites are providing visualisations via their own dashboards. Comparing multiple data sources can help communicate the reliability of key conclusions in stories told with EO data.
 
-!.. figure:: ../../../img/Le_Monde_sea_ice.png
+.. figure:: ../../../img/Le_Monde_sea_ice.png
    :target: https://www.lemonde.fr/les-decodeurs/article/2023/04/28/neuf-indicateurs-pour-mesurer-l-urgence-climatique_6148399_4355771.html
    :width: 100%
    :alt: OSI SAF Arctic and Antarctic ice coverage time series
@@ -78,7 +78,7 @@ More and more news sites are providing visualisations via their own dashboards. 
 
 EO data can be supplemented with other data sources towards a wide variety, of societally and environmentally valuable applications.
 
-!.. figure:: ../../../img/orbitaleos.png
+.. figure:: ../../../img/orbitaleos.png
    :target: https://www.orbitaleos.com
    :width: 100%
    :alt: Satellite-based oil spill tracking

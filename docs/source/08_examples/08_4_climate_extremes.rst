@@ -13,7 +13,7 @@ Animations can be used to great effect to enhance visualisations and are particu
 
 Indices can simplify visualisations to give viewers a more relative understanding of a phenomena and its impacts.
 
-!.. figure:: ../../../img/Marine_HW.png
+.. figure:: ../../../img/Marine_HW.png
    :target: http://www.marineheatwaves.org/
    :width: 100%
    :alt: Visualising marine heat waves
@@ -22,7 +22,7 @@ Indices can simplify visualisations to give viewers a more relative understandin
 
 Divergent colour scales can be useful for visualising trends and anomalies.
 
-!.. figure:: ../../../img/RSLR.png
+.. figure:: ../../../img/RSLR.png
    :target: https://marine.copernicus.eu/
    :width: 100%
    :alt: Visualising regional sea level rise

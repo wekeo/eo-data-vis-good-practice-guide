@@ -26,3 +26,8 @@ Associated slides from the presentation can be found in the designated workshop 
 This guide is a living resource. We welcome contributions from individuals, journalists and any related initiatives within the Earth observation community. 
 
 Please see the :ref:`contribution guidelines <contribution_guidelines>` for information on how to add to this resource.
+
+.. image:: ../../img/footer.png
+   :width: 20%
+   :alt: Copernicus implementation logo
+   :align: right

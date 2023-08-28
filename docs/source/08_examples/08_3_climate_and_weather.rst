@@ -13,7 +13,7 @@ Even when not visualised itself, data can still inform story telling. Clear and 
 
 Repeating visualisation can readily show signficant changes across a data set.
 
-!.. figure:: ../../../img/ERA5_temp.png
+.. figure:: ../../../img/ERA5_temp.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
    :alt: ERA5 annual mean temperature anomaly
@@ -22,21 +22,21 @@ Repeating visualisation can readily show signficant changes across a data set.
 
 Visualisations have the potential to become memes, and can be repeated in many contexts.
 
-!.. figure:: ../../../img/stripes_dover.png
+.. figure:: ../../../img/stripes_dover.png
    :target: https://www.reading.ac.uk/news/2023/University-News/White-Cliffs-of-Dover-display-climate-stripes
    :width: 100%
    :alt: Visualising climate stripes
 
    *Visualising climate stripes (Credit: University of Reading).*
 
-!.. figure:: https://pbs.twimg.com/media/Fx2tKJYWwAAaXHG?format=jpg&name=900x900
+.. figure:: https://pbs.twimg.com/media/Fx2tKJYWwAAaXHG?format=jpg&name=900x900
    :target: https://pbs.twimg.com/media/Fx2tKJYWwAAaXHG?format=jpg&name=900x900
    :width: 100%
    :alt: The Pope discussing climate stripes
 
    *The Pope discussing climate stripes (Credit: Cristina Nadotti @CriNadot)*
 
-!.. figure:: https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1667227840660_mainnews2012_x1.jpg
+.. figure:: https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1667227840660_mainnews2012_x1.jpg
    :target: https://www.imperial.ac.uk/news/241093/imperial-scientists-appear-first-book-teen/
    :width: 100%
    :alt: Greta Thunberg holding "The Climate Book"
@@ -45,7 +45,7 @@ Visualisations have the potential to become memes, and can be repeated in many c
 
 Providing comparisons that people can readily understand, can greatly aid visualisation.
 
-!.. figure:: https://climate.copernicus.eu/sites/default/files/inline-images/ESOTC_Glaciericeloss_small_0.png
+.. figure:: https://climate.copernicus.eu/sites/default/files/inline-images/ESOTC_Glaciericeloss_small_0.png
    :target: https://climate.copernicus.eu/esotc/2022/ocean
    :width: 100%
    :alt: Glacial ice loss

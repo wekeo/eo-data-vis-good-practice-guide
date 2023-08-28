@@ -7,6 +7,21 @@ Welcome to the Earth observation data visualisation good practice guide
   :width: 100%
   :alt: Earth Observation Data Visualisation workshop banner image
 
+Executive summary
+----------------
+
+---
+The following bullet points summarise the main conclusions of the guide:
+
+* Crafting Impactful Stories: The guide stresses that Earth observation data can be a powerful tool for telling compelling stories, especially when it comes to environmental issues. It's not just about presenting data; it's about weaving it into a narrative that resonates with people.
+* Versatility of Data: Earth observation data is incredibly versatile. It can be used to monitor everything from climate change to natural disasters. The guide discusses how this data can be tailored to fit various storytelling needs.
+* Effective Data Visualization: The guide goes beyond just presenting data; it talks about how to make that data understandable and engaging. This includes choosing the right kind of visualization for your audience, whether it's a simple chart for a general audience or a more complex model for experts.
+* Accessing Data: The guide provides practical advice on where to find Earth observation data and how to use it. It mentions both quick, "off-the-shelf" solutions for those who need information fast, as well as more customizable options for those who need specific types of data.
+---
+
+Background
+----------
+
 Throughout the spring of 2023, and under the umbrella of the EU's Copernicus Programme, EUMETSAT coordinated the production of a series of workshops focussed on effective ways to visualise Earth observation data. This series brought together ideas and opinions from journalists, scientists and remote sensing practitioners from operational agencies and industry. 
 
 The workshops offered advice on how to craft impactful stories using products and imagery derived from satellites, as well as giving practical examples and demonstrations of data use and access. 
@@ -25,7 +40,8 @@ This guide is written using `Read the docs <https://about.readthedocs.com/>`_. I
 
 For any questions about the guide, please contact `ops@eumetsat.int <mailto:ops@eumetsat.int>`_. 
 
-**Funding**
+Funding
+-------
 
 This project was funded by the EU `Copernicus Programme <https://www.copernicus.eu/en>`_ and coordinated by `EUMETSAT <http://www.eumetsat.int>`_ in partnership with `ECMWF <https://www.ecmwf.int/>`_, `Mercator Ocean International <https://www.mercator-ocean.eu/en/>`_ and the `European Environment Agency <https://www.eea.europa.eu/en>`_. 
 
