@@ -11,12 +11,13 @@ Executive summary
 ----------------
 
 ---
-The following bullet points summarise the main conclusions of the guide:
+The following bullet points summarise the main messages of the guide.
 
-* Crafting Impactful Stories: The guide stresses that Earth observation data can be a powerful tool for telling compelling stories, especially when it comes to environmental issues. It's not just about presenting data; it's about weaving it into a narrative that resonates with people.
-* Versatility of Data: Earth observation data is incredibly versatile. It can be used to monitor everything from climate change to natural disasters. The guide discusses how this data can be tailored to fit various storytelling needs.
-* Effective Data Visualization: The guide goes beyond just presenting data; it talks about how to make that data understandable and engaging. This includes choosing the right kind of visualization for your audience, whether it's a simple chart for a general audience or a more complex model for experts.
-* Accessing Data: The guide provides practical advice on where to find Earth observation data and how to use it. It mentions both quick, "off-the-shelf" solutions for those who need information fast, as well as more customizable options for those who need specific types of data.
+* **Crafting Impactful Stories:** Earth observation data can be a powerful tool for telling compelling stories, especially when it comes to environmental issues. It's not just about presenting data; it's about weaving it into a narrative that resonates with people.
+* **Versatility of Data:** Earth observation data is incredibly versatile. It can be used to monitor everything from climate change to natural disasters. The guide discusses how this data can be tailored to fit various storytelling needs.
+* **Effective Data Visualization:** Successfuly visualisations move beyond data presentation, and focus on how to make that data understandable and engaging. This includes choosing the right kind of visualization for your audience, whether it's a simple chart for a general audience or a more complex model for experts.
+* **Accessing Data:** The guide provides practical advice on where to find Earth observation data and how to use it. It pressnts both quick, "off-the-shelf" solutions for those who need information fast, as well as more customizable options for those who need specific types of data.
+* **Audience:** The guide is open-source and invites ongoing contributions from experts in the field. It serves as a one-stop-shop for journalists, scientists, and data analysts who want to make complex environmental data accessible and impactful.
 ---
 
 Background
