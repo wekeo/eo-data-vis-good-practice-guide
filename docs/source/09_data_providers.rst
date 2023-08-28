@@ -19,6 +19,32 @@ Data providers and services
 ---------------------------
 Below is a non-exhaustive list of data providers alongside some of their associated services - please do suggest additions! 
 
+.. list-table:: Copernicus services
+   :widths: 20 40 40
+   :header-rows: 1
+
+   * - Provider
+     - Services
+     - Available data
+   * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
+     - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
+       | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
+     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at operational, reprocessed and climate scales.
+   * - `Copernicus Atmospheric Monitoring Service (CAMS) <https://atmosphere.copernicus.eu/>`_
+     - | `Daily charts <https://atmosphere.copernicus.eu/charts/packages/cams/>`_    
+       | `Atmospheric Data Store <https://atmosphere.copernicus.eu/data>`_ (Web GUI/API)
+     - Atmopsheric charts and data from from satellites and numerical models at near operational and reprocessed scales.
+   * - `Copernicus Climate Change Service (C3S) <https://climate.copernicus.eu/>`_
+     - | `Climate Data Store <https://cds.climate.copernicus.eu/#!/home>`_ (Web GUI/API)
+     - Climate indicators, data and reports for the atmosphere, ocean and cryosphere.
+   * - `Copernicus Land Service (CLMS) <https://land.copernicus.eu/>`_
+     - | `Land Service Portal <https://land.copernicus.vgt.vito.be/>`_ (Web GUI)
+       | `Product access <https://land.copernicus.eu/global/access>`_ (Web API/FTP)
+     - Land products.
+   * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
+     - `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
+     - Situational map information on current emergencies from various sensors and data providers.
+
 .. list-table:: Satellite agencies
    :widths: 20 40 40
    :header-rows: 1
@@ -48,33 +74,6 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - | `Data archive <https://www.ecmwf.int/en/forecasts/datasets>`_ (API)
        | `Chart viewer and browser <https://www.ecmwf.int/en/forecasts/charts>`_
      - Reanalysis and forecast charts and data sets. Many products available through the Copernicus Climate Data Store.
-
-.. list-table:: Copernicus services
-   :widths: 20 40 40
-   :header-rows: 1
-
-   * - Provider
-     - Services
-     - Available data
-   * - `Copernicus Marine Service (CMEMS) <https://marine.copernicus.eu/>`_
-     - | `My Ocean Viewer <https://data.marine.copernicus.eu/viewer/expert>`_ (WMS/Web API)
-       | `Marine Data Store <https://data.marine.copernicus.eu/products>`_ (Web API/OpenDAP/ERDDAP/FTP/WMS)
-     - Ocean indicators and marine data from satellite, numerical model and *in situ* sources at operational, reprocessed and climate scales.
-   * - `Copernicus Atmospheric Monitoring Service (CAMS) <https://atmosphere.copernicus.eu/>`_
-     - | `Daily charts <https://atmosphere.copernicus.eu/charts/packages/cams/>`_    
-       | `Atmospheric Data Store <https://atmosphere.copernicus.eu/data>`_ (Web GUI/API)
-     - Atmopsheric charts and data from from satellites and numerical models at near operational and reprocessed scales.
-   * - `Copernicus Climate Change Service (C3S) <https://climate.copernicus.eu/>`_
-     - | `Climate Data Store <https://cds.climate.copernicus.eu/#!/home>`_ (Web GUI/API)
-     - Climate indicators, data and reports for the atmosphere, ocean and cryosphere.
-   * - `Copernicus Land Service (CLMS) <https://land.copernicus.eu/>`_
-     - | `Land Service Portal <https://land.copernicus.vgt.vito.be/>`_ (Web GUI)
-       | `Product access <https://land.copernicus.eu/global/access>`_ (Web API/FTP)
-     - Land products.
-   * - `Copernicus Emergency Management Service (CEMS) <https://emergency.copernicus.eu/>`_
-     - `Rapid and Risk mapping services portal <https://emergency.copernicus.eu/mapping/>`_ (Web GUI)
-     - Situational map information on current emergencies from various sensors and data providers.
-
 
 .. list-table:: EUMETSAT Satellite Application Facilities (SAFs)
    :widths: 40 60

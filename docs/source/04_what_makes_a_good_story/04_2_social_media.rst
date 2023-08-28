@@ -36,8 +36,6 @@ The examples below show how social media can be used to link satellite data with
     <embed>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a><br><br>Major <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> 🔥 have broken out in <a href="https://twitter.com/hashtag/Greece?src=hash&amp;ref_src=twsrc%5Etfw">#Greece</a> 🇬🇷 over the last few hours<br><br>➡️In East Macedonia (+8,500 hectares have burned)<br>➡️On Evia, where 3 villages have been evacuated<br>➡️In Boeotia (visible in this <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️ image of 21/08), which resulted in a casualty <a href="https://t.co/LhJjh4lGNm">pic.twitter.com/LhJjh4lGNm</a></p>&mdash; Copernicus EU (@CopernicusEU) <a href="https://twitter.com/CopernicusEU/status/1693875046769373628?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
 .. raw:: html
 
     <embed>
@@ -64,8 +62,7 @@ The examples below show how social media can be used to link satellite data with
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As both a <a href="https://twitter.com/MotoGP?ref_src=twsrc%5Etfw">@MotoGP</a> fan and satellite nerd, I took a look at data from <a href="https://twitter.com/eumetsat?ref_src=twsrc%5Etfw">@eumetsat</a> <a href="https://twitter.com/hashtag/meteosat?src=hash&amp;ref_src=twsrc%5Etfw">#meteosat</a> for Nov 6th. The &#39;puffs&#39; of pink moving from N. Africa to Valencia are probably dust, dark red is thick high cloud (probably rain). <a href="https://twitter.com/hashtag/ValenciaGP?src=hash&amp;ref_src=twsrc%5Etfw">#ValenciaGP</a> <a href="https://t.co/8AwrMvvzO2">https://t.co/8AwrMvvzO2</a> <a href="https://t.co/Urffzmz1zu">pic.twitter.com/Urffzmz1zu</a></p>&mdash; Ben Loveday (@brloveday) <a href="https://twitter.com/brloveday/status/1324996921136705536?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
 
-
-  Earth observation can also be linked to every day items, especially if they have a spatial element (e.g. a Lego map)...
+ Earth observation can also be linked to every day items, especially if they have a spatial element (e.g. a Lego map)...
 
 .. raw:: html
 
