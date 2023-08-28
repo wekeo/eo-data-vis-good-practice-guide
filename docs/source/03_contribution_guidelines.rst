@@ -34,3 +34,10 @@ Contributors should keep the above context in mind when submitting contributions
 .. note::
 
 If you have any problems at all with contributing, or wish to discuss the good practice guide with us, please contact the EUMETSAT `helpdesk <mailto:ops@eumetsat.int>`_, referencing this webpage and requesting the attention of Hayley Evers-King.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

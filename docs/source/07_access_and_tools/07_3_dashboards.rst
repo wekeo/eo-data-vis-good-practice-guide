@@ -10,3 +10,10 @@ Dashboards typically bring together data from various sources to either give an 
 * `Le Monde climate dashboard <https://www.lemonde.fr/les-decodeurs/article/2023/04/28/neuf-indicateurs-pour-mesurer-l-urgence-climatique_6148399_4355771.html>`_
 * `Berliner Morgenpost: Mapping where Earth will become uninhabitable <https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/en.html>`_
 * `Our World in Data <https://ourworldindata.org/>`_
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

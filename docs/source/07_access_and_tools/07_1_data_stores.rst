@@ -16,3 +16,10 @@ Many providers offer ancillary view and analysis services along side their data 
 * `Copernicus Land Monitoring Services Data Store <https://land.copernicus.eu>`_
 * `WEKEO Data Viewer <https://www.wekeo.eu/data>`_
 * `EUMETSAT Data Store <https://data.eumetsat.int>`_
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

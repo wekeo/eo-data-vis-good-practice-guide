@@ -7,3 +7,10 @@ While not typically focussed on Earth observation, there are a number of other u
 
 * `WWF data visualisation guide <https://wwf-brand.azurewebsites.net/brand-guidelines/data-visualisations-infographics/>`_
 * `Ten simple rules for better figures <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833>`_
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

@@ -26,3 +26,10 @@ There are also a variety of cloud based infrastructures that can support you in 
 
 * The `Copernicus WEkEO Data and Information Access System (DIAS) <https://www.wekeo.eu/>`_ cloud platform offers a free Jupyter Hub that you can use to develop cloud-based code to exploit many Copernicus data records, including those from the Sentinel satellite series. It also offers a scalable cloud infrastructure for more advanced data processing.
 * `Google Earth Engine <https://earthengine.google.com/>`_ can be used to explore a wide catalogue of free and open satellite data, particularly when the application is focussed on land applications.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

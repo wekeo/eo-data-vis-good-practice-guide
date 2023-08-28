@@ -85,3 +85,9 @@ EO data can be supplemented with other data sources towards a wide variety, of s
 
    *Satellite use in oil spill tracking (Credit: Orbital EOS and CMCC).*
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

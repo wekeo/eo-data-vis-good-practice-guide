@@ -18,3 +18,10 @@ A full breakdown of Earth Observation measurement techniques and applications is
    05_4_cryosphere
    05_5_weather
    05_6_climate
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

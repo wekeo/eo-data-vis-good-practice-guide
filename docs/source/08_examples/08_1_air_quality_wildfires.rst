@@ -48,3 +48,9 @@ Satellites can provide multiple perspectives on a phenomena. This visualisation 
 
    *Lava flow and ash plume from the La Palma Volcano, captured by Copernicus Sentinel-2 (Credit: ESA).*
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

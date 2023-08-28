@@ -56,3 +56,10 @@ Contributory authors include:
 * `Ignatius	Williams` - University of Ghana
 
 The source code for this documentation is managed by Benjamin Loveday. For questions about editing and contribution, please see the :ref:`Contribution guidelines <contribution_guidelines>` section of this guide.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

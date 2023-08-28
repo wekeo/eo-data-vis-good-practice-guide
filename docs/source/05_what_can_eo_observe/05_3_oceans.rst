@@ -25,4 +25,9 @@ Get ideas on how to access and work with `ocean data <https://youtu.be/7NRZQ9l6w
 
 For access to Copernicus ocean data please visit the `Copernicus Marine Service <https://marine.copernicus.eu/>`_. 
 
+------------
 
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

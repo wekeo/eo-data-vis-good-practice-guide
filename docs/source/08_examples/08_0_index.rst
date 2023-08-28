@@ -13,3 +13,9 @@ Examples stories and visualisation for different environmental thematics
 
 For further examples from news media, also see the page on :ref:`journalists perspective <journalists-perspectives>`.
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

@@ -16,3 +16,10 @@ Thermal hotspots can identify fires, as well activities on land such gas flares 
 For example visualisations, with discussions, see the :ref:`air quality and wildfires visualisations<air-quality-wildfires>` section.
 
 To access Copernicus land data please visit the `Copernicus Land Monitoring Service <https://land.copernicus.eu/>`_.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

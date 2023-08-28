@@ -8,3 +8,10 @@ Satellite measurements of the atmosphere can tell us about the way it moves and 
 For example visualisations, with discussions, see the :ref:`air quality and wildfires visualisations<air-quality-wildfires>` section.
 
 For access to Copernicus atmosphere data please visit the `Copernicus Atmosphere Monitoring Service <https://atmosphere.copernicus.eu/>`_.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

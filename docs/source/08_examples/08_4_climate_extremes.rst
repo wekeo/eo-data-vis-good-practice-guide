@@ -70,3 +70,9 @@ It is particularly important to provide long-term context for events being repor
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mosaic of daily average <a href="https://twitter.com/hashtag/Arctic?src=hash&amp;ref_src=twsrc%5Etfw">#Arctic</a> sea ice thickness anomalies over about the last four decades - note the trend...<br><br>+ Visualization now available through 2022 at: <a href="https://t.co/ysoGwwYtqb">https://t.co/ysoGwwYtqb</a>. Red shading indicates thinner ice. <a href="https://t.co/KxBFCXOrfp">pic.twitter.com/KxBFCXOrfp</a></p>&mdash; Zack Labe (@ZLabe) <a href="https://twitter.com/ZLabe/status/1641048446256963584?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </embed>
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

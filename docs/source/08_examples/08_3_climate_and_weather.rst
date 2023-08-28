@@ -68,4 +68,10 @@ Providing comparisons that people can readily understand, can greatly aid visual
 
 Clear comparisons, with use of consisistent style, labelling, and data baselines, can tell stories of change, and refute inaccurate claims.
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right
 

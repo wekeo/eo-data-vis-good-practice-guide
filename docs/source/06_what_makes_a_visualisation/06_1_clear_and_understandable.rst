@@ -29,4 +29,9 @@ To make visualisations accessible for more people it is also important to includ
 
 Colour schemes can be used to great effect to highlight features in Earth observation data, however they need to be suitable for common visual impairment i.e. colour blindness. Colour schemes can also be more or less intuitive, depending on the particular feature of interest e.g. using red for hot and blue for cold is understandable for most people. However, colour schemes can also affect the accuracy of visualisation (see below).
 
+------------
 
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

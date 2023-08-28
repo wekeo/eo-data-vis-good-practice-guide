@@ -17,3 +17,10 @@ However, different platforms, audiences, and communication styles, can require q
    04_1_journalists_perspectives
    04_2_social_media
    04_3_communicating_science
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

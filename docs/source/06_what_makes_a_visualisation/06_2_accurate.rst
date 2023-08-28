@@ -27,4 +27,9 @@ Collaboration with experts can help assure that visualisations are using the mos
 
 Further tips for making accurate visualisations include use of clear but simple labels to provide scale and location information, and the selection of colour scales that show true changes using linear change and contrast in the colours selected. 
 
+------------
 
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

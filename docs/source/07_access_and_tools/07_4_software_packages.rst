@@ -8,3 +8,10 @@ Where "off the shelf" options for data visualisation do not exist, it is often n
 * `QGIS <https://www.qgis.org/en/site/>`_
 * `Copernicus Marine Service QGIS plugin <https://marine.copernicus.eu/services/user-learning-services/qgis-plugin-cmems-netcdf>`_
 * `Copernicus Climate Change Service toolbox <https://cds.climate.copernicus.eu/cdsapp#!/toolbox>`_
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

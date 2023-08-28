@@ -21,3 +21,10 @@ Below, we present some visualising approaches that address these considerations,
    07_5_code_based_approaches
    07_6_summary_reports
    07_7_other_vis_guides
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

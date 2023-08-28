@@ -27,3 +27,10 @@ In terms of the Earth observation sector, for scientists engaging with media, it
 
 * Show the relevance of data to current news: satellite imagery nearly always has something to add to a news story, whether it’s an aerial view of a big cultural event, or a beautiful environmental phenomena.
 * Be human and approachable. Sharing challenges and facets of day-to-day life, can help foster engagement, reducing ‘ivory tower’ feelings around science. 
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

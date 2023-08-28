@@ -15,3 +15,9 @@ In general, stories and associated visualisations that draw attention are:
 
 * Community oriented - e.g. involve networking and recognise community contributions. Images are more likely to be shared when others are recognised for their contributions e.g. tagging data producers, or software developers on social media posts.
 
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

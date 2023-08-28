@@ -15,3 +15,10 @@ Below you can find the associated slides of the presentations given during the w
 * `Week 6\: Being Practical: How to access and process Copernicus and EUMETSAT data <https://github.com/wekeo/eo-data-visualisation/tree/main/presentations/week_06_Being_Practical>`_
 
 Please note that while, unless otherwise stated (e.g. in the visualisation credits) the good practice guide is licenced under `CC\-BY\-4.0 <https://creativecommons.org/licenses/by/4.0/>`_, the webinar presentations themselves are licenced under `CC\-BY\-ND <https://creativecommons.org/licenses/by-nd/2.0/>`_, meaning that they cannot be altered in any way. Please see the `GitHub repository <https://github.com/wekeo/eo-data-visualisation>`_ that contains them for more information.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

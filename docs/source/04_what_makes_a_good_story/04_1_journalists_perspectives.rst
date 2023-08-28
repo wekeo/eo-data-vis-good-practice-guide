@@ -59,3 +59,10 @@ Examples of some of these stories can be found in the :ref:`example stories <exa
    :alt: Washington Post Eagle Island glacier
 
    *Mapping glacial coverage with Copernicus Sentinel-2 (Credit: Washington Post)*
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

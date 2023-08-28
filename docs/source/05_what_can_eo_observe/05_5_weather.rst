@@ -16,3 +16,10 @@ New satellites such as EUMETSAT's `MTG-I1 <https://www.eumetsat.int/meteosat-thi
 For example visualisations, with discussions, see the :ref:`climate and weather visualisations<climate-weather>` section.
 
 To access weather data please visit `EUMETSAT <https://view.eumetsat.int/productviewer?v=default>`_. 
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

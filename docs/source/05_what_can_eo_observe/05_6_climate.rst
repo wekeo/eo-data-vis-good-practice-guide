@@ -10,3 +10,10 @@ Satellite data records are constantly growing, providing time series of measurem
 For example visualisations, with discussions, see the :ref:`climate and weather visualisations<climate-weather>` section.
 
 To access Copernicus climate data please visit the `Copernicus Climate Change Service <https://climate.copernicus.eu/>`_. EUMETSAT also has long time series of `satellite observations <https://www.eumetsat.int/what-we-monitor/climate>`_ dating back to 1978.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

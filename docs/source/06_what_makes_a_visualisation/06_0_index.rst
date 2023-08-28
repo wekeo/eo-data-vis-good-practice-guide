@@ -11,3 +11,10 @@ Whilst Earth observation data is more available than ever, there are challenges 
    06_1_clear_and_understandable
    06_2_accurate
    06_3_draw_attention
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

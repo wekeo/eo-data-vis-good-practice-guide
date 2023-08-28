@@ -80,3 +80,10 @@ The examples below show how social media can be used to link satellite data with
     </embed>
 
 Using satellite data in this way can push stories into communities that they would not otherwise reach.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

@@ -114,3 +114,10 @@ Below is a non-exhaustive list of data providers alongside some of their associa
      - | `EO Browser <https://www.sentinel-hub.com/explore/eobrowser/>`_
        | `API data access <https://www.sentinel-hub.com/develop/api/>`_
      - Various products from the Copernicus Sentinel Programme and Copernicus Services, as well as products from Landsat, ENVISAT, MODIS and commercial providers.
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right

@@ -18,3 +18,10 @@ Many viewers extend their capability to offer either analysis tools to interroga
 * `Ocean Biodiversity Information System Mapper <https://mapper.obis.org/>`_
 * `NASA Earth Viewer <https://worldview.earthdata.nasa.gov/>`_
 * `Himawari Earth Viewer <https://himawari8.nict.go.jp/>`_
+
+------------
+
+.. image:: ../../img/footer.png
+   :width: 40%
+   :alt: Copernicus implementation logo
+   :align: right
