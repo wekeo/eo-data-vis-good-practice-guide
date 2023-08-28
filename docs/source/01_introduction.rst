@@ -28,7 +28,8 @@ This guide is a living resource. We welcome contributions from individuals, jour
 Please see the :ref:`contribution guidelines <contribution_guidelines>` for information on how to add to this resource.
 
 ------------
+
 .. image:: ../../img/footer.png
-   :width: 33%
+   :width: 40%
    :alt: Copernicus implementation logo
    :align: right
