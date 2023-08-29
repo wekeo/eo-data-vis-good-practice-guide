@@ -12,7 +12,7 @@ Satellite data can provide views on the impact of human activities.
 
    *Ammonia concentration measured by IASI, overlaid on a map of likely production sites (Credit: Lieven Clarisse and Martin Van Damme).*
 
-Satellite data can be used to show things the human eye cannot readily percieve - like concentrations of pollutants in the air.
+Satellite data can be used to show things the human eye cannot readily perceive - like concentrations of pollutants in the air.
 
 .. figure:: ../../../img/S5P_air_quality.png
    :target: https://maps.s5p-pal.com/
