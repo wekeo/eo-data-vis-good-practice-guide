@@ -11,7 +11,7 @@ The text here is based on a summary of the extensive contributions made during t
 * `Neil Fletcher <Neil.Fletcher@eumetsat.int>`_ - EUMETSAT
 
 
-Contributory authors and links to presenations are below:
+Contributory authors and links to individual **presentations** are below:
 
 * `Aida Alvera-Azcárate <https://www.youtube.com/watch?v=7NRZQ9l6wnA&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=3&t=2622s>`_ - University of Liege, GHER
 * `Jonathan	Amos <https://www.youtube.com/watch?v=mDh1Ty_j5KI&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=1&t=3947s>`_ - BBC
