@@ -4,13 +4,6 @@ Acknowledgements and authors list
 =================================
 EUMETSAT would like to express its gratitude to all presenters and participants, who attended the initial workshop series, and contributed their presentation content, ideas, and discussion points, which formed the basis of the first draft of this good practice guide.
 
-The text here is based on a summary of the extensive contributions made during the EUMETSAT Earth Observation Data Visualisation Workshop, and was developed by the following authors:
-
-* `Benjamin Loveday <mailto:ben.loveday@innoflair.com>`_ – Innoflair UG 
-* `Hayley Evers\-King <Hayley.EversKing@eumetsat.int>`_ - EUMETSAT
-* `Neil Fletcher <Neil.Fletcher@eumetsat.int>`_ - EUMETSAT
-
-
 Contributory authors and links to individual **presentations** are below:
 
 * `Aida Alvera-Azcárate <https://www.youtube.com/watch?v=7NRZQ9l6wnA&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=3&t=2622s>`_ - University of Liege, GHER
@@ -54,6 +47,13 @@ Contributory authors and links to individual **presentations** are below:
 * `Antonio Vecoli <https://www.youtube.com/watch?v=Mnq-2wmKWvQ&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=4&t=5230s>`_ - MEEO S.r.l
 * `Julia Wagemann <https://www.youtube.com/watch?v=WpMOKWUW2aQ&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=2&t=6620s>`_ - MEEO S.r.l
 * `Ignatius	Williams <https://www.youtube.com/watch?v=immx0RF5SbU&list=PLOQg9n6Apif1BlpT808l8EdgHMndNhNlT&index=6&t=373s>`_ - University of Ghana
+
+The text in this good practice guide is based on a summary of the extensive contributions made during the EUMETSAT Earth Observation Data Visualisation Workshop, and was developed by the following authors:
+
+* `Benjamin Loveday <mailto:ben.loveday@innoflair.com>`_ – Innoflair UG 
+* `Hayley Evers\-King <Hayley.EversKing@eumetsat.int>`_ - EUMETSAT
+* `Neil Fletcher <Neil.Fletcher@eumetsat.int>`_ - EUMETSAT
+
 
 The source code for this documentation is managed by Benjamin Loveday. For questions about editing and contribution, please see the :ref:`Contribution guidelines <contribution_guidelines>` section of this guide.
 
