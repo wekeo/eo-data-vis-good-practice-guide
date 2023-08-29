@@ -11,7 +11,7 @@ The text here is based on a summary of the extensive contributions made during t
 * `Neil Fletcher <Neil.Fletcher@eumetsat.int>`_ - EUMETSAT
 
 
-Contributory authors include:
+Contributory authors and links to presenations are below:
 
 * `Aida Alvera-Azcárate` - University of Liege, GHER
 * `Jonathan	Amos` - BBC
@@ -23,7 +23,7 @@ Contributory authors include:
 * `Sienna Cumby` - ALSO Space
 * `Gary	Dagorn` - Le Monde
 * `Letizia Davoli` - TV2000
-* `Scott Duncan`
+* `Scott Duncan <https://www.youtube.com/watch?v=Mnq-2wmKWvQ&t=191s>`_
 * `Alexander Epp` - Der Spiegel
 * `Hayley Evers-King` - EUMETSAT
 * `Federico	Fierli` - EUMETSAT
