@@ -21,9 +21,10 @@ Scale can also be important when creating visualisations with numerical data. In
 
 **Formats**
 
-Modern media consumption takes place increasingly through digital media on phones, tablets and laptops. For visuals to be clear and understandable, they increasingly need work in multiple formats and sizes, in particular on screened devices such as mobile phones. 
+Modern media consumption takes place increasingly through digital media on phones, tablets and laptops. For visuals to be clear and understandable, they increasingly need work in multiple `formats and sizes <https://www.socialpilot.co/blog/social-media-image-sizes>`_, in particular on screened devices such as mobile phones. 
 
 To make visualisations accessible for more people it is also important to include alternative text in web based visualisations, to support text readers; and to avoid flashing GIF animations.
+`Link text <link URL>`_
 
 **Colour** 
 
