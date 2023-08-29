@@ -9,7 +9,7 @@ For example visualisations, with discussions, see the :ref:`oceans and sea ice v
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

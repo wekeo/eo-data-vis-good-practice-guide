@@ -87,7 +87,7 @@ EO data can be supplemented with other data sources towards a wide variety, of s
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

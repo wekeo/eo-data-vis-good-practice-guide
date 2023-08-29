@@ -70,7 +70,7 @@ Clear comparisons, with use of consisistent style, labelling, and data baselines
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

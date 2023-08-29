@@ -29,7 +29,7 @@ Further tips for making accurate visualisations include use of clear but simple 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

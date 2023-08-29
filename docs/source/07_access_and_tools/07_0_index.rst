@@ -24,7 +24,7 @@ Below, we present some visualising approaches that address these considerations,
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

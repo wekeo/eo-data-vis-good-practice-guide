@@ -20,7 +20,7 @@ However, different platforms, audiences, and communication styles, can require q
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

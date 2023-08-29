@@ -15,7 +15,7 @@ For further examples from news media, also see the page on :ref:`journalists per
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

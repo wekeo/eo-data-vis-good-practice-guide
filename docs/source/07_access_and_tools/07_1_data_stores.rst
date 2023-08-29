@@ -19,7 +19,7 @@ Many providers offer ancillary view and analysis services along side their data 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

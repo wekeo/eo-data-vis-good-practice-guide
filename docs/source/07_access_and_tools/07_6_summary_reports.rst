@@ -11,7 +11,7 @@ Some of the Copernicus services author annual reports summarising, for example, 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

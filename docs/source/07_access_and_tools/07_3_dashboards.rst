@@ -13,7 +13,7 @@ Dashboards typically bring together data from various sources to either give an 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

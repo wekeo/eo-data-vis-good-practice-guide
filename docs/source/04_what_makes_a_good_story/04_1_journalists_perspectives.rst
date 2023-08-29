@@ -62,7 +62,7 @@ Examples of some of these stories can be found in the :ref:`example stories <exa
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

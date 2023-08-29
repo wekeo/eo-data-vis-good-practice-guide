@@ -29,7 +29,7 @@ There are also a variety of cloud based infrastructures that can support you in 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right

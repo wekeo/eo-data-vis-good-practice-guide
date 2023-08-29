@@ -50,7 +50,7 @@ Satellites can provide multiple perspectives on a phenomena. This visualisation 
 
 ------------
 
-.. image:: ../../img/footer.png
+.. image:: ../../../img/footer.png
    :width: 40%
    :alt: Copernicus implementation logo
    :align: right
