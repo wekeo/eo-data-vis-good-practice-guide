@@ -23,10 +23,10 @@ Efforts by scientists to communicate Earth observation research can bring a numb
 * Creation of cross-disciplinary collaboration between scientists themselves.
 * Engagement with journalists who can then accurately tell stories to even wider audiences. 
 
-In terms of the Earth observation sector, for scientists engaging with media, it can help to: 
+In the Earth observation sector, greater engagement with the media can help to: 
 
-* Show the relevance of data to current news: satellite imagery nearly always has something to add to a news story, whether it’s an aerial view of a big cultural event, or a beautiful environmental phenomena.
-* Be human and approachable. Sharing challenges and facets of day-to-day life, can help foster engagement, reducing ‘ivory tower’ feelings around science. 
+* Show the relevance of Earth observation data to current news: satellite imagery nearly always has something to add to a news story, whether it’s an aerial view of a big cultural event, or a beautiful environmental phenomena.
+* Make scientists more approachable. Sharing challenges and facets of day-to-day life, can help foster engagement, reducing ‘ivory tower’ feelings around science. 
 
 ------------
 
