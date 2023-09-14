@@ -19,6 +19,6 @@ Please note that while, unless otherwise stated (e.g. in the visualisation credi
 ------------
 
 .. image:: ../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

@@ -73,6 +73,6 @@ It is particularly important to provide long-term context for events being repor
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

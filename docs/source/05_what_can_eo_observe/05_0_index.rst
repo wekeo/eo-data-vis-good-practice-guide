@@ -22,6 +22,6 @@ A full breakdown of Earth Observation measurement techniques and applications is
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

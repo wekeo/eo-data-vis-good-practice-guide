@@ -30,6 +30,6 @@ Further tips for making accurate visualisations include use of clear but simple 
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

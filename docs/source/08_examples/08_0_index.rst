@@ -16,6 +16,6 @@ For further examples from news media, also see the page on :ref:`journalists per
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

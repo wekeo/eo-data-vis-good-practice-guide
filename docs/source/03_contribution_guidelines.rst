@@ -38,6 +38,6 @@ If you have any problems at all with contributing, or wish to discuss the good p
 ------------
 
 .. image:: ../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

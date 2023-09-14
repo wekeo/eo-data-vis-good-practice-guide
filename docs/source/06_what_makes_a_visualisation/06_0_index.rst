@@ -15,6 +15,6 @@ Whilst Earth observation data is more available than ever, there are challenges 
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

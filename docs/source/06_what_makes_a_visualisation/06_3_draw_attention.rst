@@ -18,6 +18,6 @@ In general, stories and associated visualisations that draw attention are:
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

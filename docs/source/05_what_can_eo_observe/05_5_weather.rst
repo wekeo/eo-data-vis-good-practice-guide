@@ -20,6 +20,6 @@ To access weather data please visit `EUMETSAT <https://view.eumetsat.int/product
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

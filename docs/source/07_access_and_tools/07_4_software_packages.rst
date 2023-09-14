@@ -12,6 +12,6 @@ Where "off the shelf" options for data visualisation do not exist, it is often n
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

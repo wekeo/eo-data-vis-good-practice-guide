@@ -14,6 +14,6 @@ To access Copernicus climate data please visit the `Copernicus Climate Change Se
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

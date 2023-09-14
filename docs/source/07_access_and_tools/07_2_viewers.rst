@@ -23,6 +23,6 @@ Many viewers extend their capability to offer either analysis tools to interroga
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

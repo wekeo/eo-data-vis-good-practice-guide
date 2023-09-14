@@ -10,6 +10,6 @@ For example visualisations, with discussions, see the :ref:`oceans and sea ice v
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

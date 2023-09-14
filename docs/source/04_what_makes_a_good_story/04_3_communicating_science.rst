@@ -31,6 +31,6 @@ In terms of the Earth observation sector, for scientists engaging with media, it
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

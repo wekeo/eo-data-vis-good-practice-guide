@@ -118,6 +118,6 @@ Below is a non-exhaustive list of data providers alongside some of their associa
 ------------
 
 .. image:: ../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right

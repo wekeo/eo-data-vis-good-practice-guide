@@ -12,6 +12,6 @@ For access to Copernicus atmosphere data please visit the `Copernicus Atmosphere
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 50%
+   :width: 60%
    :alt: Copernicus implementation logo
    :align: right
