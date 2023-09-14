@@ -20,6 +20,6 @@ To access Copernicus land data please visit the `Copernicus Land Monitoring Serv
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

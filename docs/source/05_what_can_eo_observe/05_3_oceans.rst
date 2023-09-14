@@ -28,6 +28,6 @@ For access to Copernicus ocean data please visit the `Copernicus Marine Service 
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

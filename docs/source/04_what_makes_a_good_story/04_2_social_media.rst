@@ -84,6 +84,6 @@ Using satellite data in this way can push stories into communities that they wou
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

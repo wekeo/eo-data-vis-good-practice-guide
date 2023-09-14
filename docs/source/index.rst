@@ -61,7 +61,8 @@ Contents
    07_access_and_tools/07_0_index
    08_examples/08_0_index
    09_data_providers
-   10_workshop_presentations
+   10_visualisation_checklist
+   11_workshop_presentations
 
 ------------
 

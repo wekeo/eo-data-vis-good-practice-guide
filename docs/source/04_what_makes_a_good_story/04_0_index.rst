@@ -21,6 +21,6 @@ However, different platforms, audiences, and communication styles, can require q
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

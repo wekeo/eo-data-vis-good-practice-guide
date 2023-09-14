@@ -63,6 +63,6 @@ Examples of some of these stories can be found in the :ref:`example stories <exa
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

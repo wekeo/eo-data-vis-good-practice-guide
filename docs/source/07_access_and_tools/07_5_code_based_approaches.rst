@@ -30,6 +30,6 @@ There are also a variety of cloud based infrastructures that can support you in 
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

@@ -60,6 +60,6 @@ The source code for this documentation is managed by Benjamin Loveday. For quest
 ------------
 
 .. image:: ../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

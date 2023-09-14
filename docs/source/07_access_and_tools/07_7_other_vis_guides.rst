@@ -11,6 +11,6 @@ While not typically focussed on Earth observation, there are a number of other u
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right

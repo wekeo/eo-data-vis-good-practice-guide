@@ -33,6 +33,6 @@ Colour schemes can be used to great effect to highlight features in Earth observ
 ------------
 
 .. image:: ../../../img/footer.png
-   :width: 40%
+   :width: 50%
    :alt: Copernicus implementation logo
    :align: right
