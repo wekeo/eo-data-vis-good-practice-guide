@@ -8,7 +8,7 @@ In general, these maps are based on pre-generated layers and do not show the dat
 
 Many viewers extend their capability to offer either analysis tools to interrogate/manipulate the data, or to customise visualisations. Many also offer links to the primary data itself, allowing you to "quick view" a phenomena, and then retrieve the underlying data for bespoke customisation using your own tools.
 
-* `EUMETView <https://view.eumetsat.int/>`_ and `EUMETSAT's Earth View <https://www.eumetsat.int/imagery/earth-view/>`_ 
+* `EUMETView <https://view.eumetsat.int/>`_ and `EUMETSAT's Earth view <https://www.eumetsat.int/imagery/earth-view/>`_ 
 * `IPCC Interactive Atlas <https://interactive-atlas.ipcc.ch/>`_
 * `MyOcean Pro <https://data.marine.copernicus.eu/viewer/expert>`_
 * `Sentinel Hub EO Browser <https://apps.sentinel-hub.com/eo-browser>`_
