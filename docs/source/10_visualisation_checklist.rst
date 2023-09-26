@@ -1,8 +1,8 @@
 .. _visualisation-checklist:
 
-Visualisation Checklist - 10 points to consider
+Visualisation Checklist - 10 points to consider 
 =================================================
-Storytelling with EO data imagery - key points
+Key points to think aobut when storytelling with Earth observation data
 
 1. Have you made sure that your image/animation is simple and easily understandable. If you can, test it with others before releasing it.
 
