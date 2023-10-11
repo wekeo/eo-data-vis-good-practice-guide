@@ -1,6 +1,6 @@
 .. _air-quality-wildfires:
 
-Air quality and wildfires visualisations
+Air quality and wildfire visualisations
 ----------------------------------------
 
 Satellite data can provide views on the impact of human activities.
