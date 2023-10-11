@@ -12,9 +12,9 @@ Executive summary
 
 The following points summarise the main messages of the guide.
 
-* **Crafting Impactful Stories:** Earth observation data can be a powerful tool for telling compelling stories, especially when it comes to environmental issues. It's not just about presenting data; it's about weaving it into a narrative that resonates with people.
+* **Crafting Impactful Stories:** Earth observation data can be a powerful tool for telling compelling stories, especially for environmental issues. It's not just about presenting data; it's about weaving it into a narrative that resonates with people.
 * **Versatility of Data:** Earth observation data is incredibly versatile. It can be used to monitor everything from climate change to natural disasters. The guide discusses how this data can be tailored to fit various storytelling needs.
-* **Effective Data Visualization:** Successful visualisations move beyond data presentation, and focus on how to make that data understandable and engaging. This includes choosing the right kind of visualization for your audience, whether it's a simple chart for a general audience or a more complex model for experts.
+* **Effective Data Visualization:** Successful visualisations move beyond data presentation, and focus on how to make the data understandable and engaging. This includes choosing the right kind of visualization for your audience, whether it's a simple chart for a general audience or a more complex model for experts.
 * **Accessing Data:** Practical advice is given on where to find Earth observation data and how to use it. Quick, "off-the-shelf" solutions for those who need information fast, as well as more customizable options for those who need specific types of data are discussed.
 * **Audience:** The guide is open-source and invites ongoing contributions from experts in the field. It serves as a one-stop-shop for journalists, scientists, and data analysts who want to make complex environmental data accessible and impactful.
 
@@ -35,7 +35,7 @@ However, the project is ongoing, and open, and you should feel free to contribut
 
    This project is open to community development. If you wish to contribute to the document or share an opinion on it, we'd love to hear from you. Please consult the :ref:`Contribution guidelines <contribution_guidelines>` section for information on how you can get involved.
 
-This guide is written using `Read the docs <https://about.readthedocs.com/>`_. It's source documentation can be found in the following `git repository <https://github.com/wekeo/eo-data-vis-good-practice-guide>`_. 
+This guide is written using `Read the docs <https://about.readthedocs.com/>`_. Its source documentation can be found in the following `git repository <https://github.com/wekeo/eo-data-vis-good-practice-guide>`_. 
 
 For any questions about the guide, please contact `ops@eumetsat.int <mailto:ops@eumetsat.int>`_. 
 
