@@ -3,7 +3,7 @@
 How can data providers make storytelling easier?
 =================================================
 
-The data visualisation workshop that prompted the first draft of this guide, instigated a lot of discussion about what data providers can do to make storytelling easier for others. Here we have gathered key points related to this topic, to service data providers in future user requirement definition:
+The data visualisation workshop that prompted the first draft of this guide instigated a lot of discussion about what data providers can do to make storytelling easier for others. Here we have gathered some key points related to this topic, to help data providers with the definition of future requirements:
 
 To support storytelling, data providers can:
 
