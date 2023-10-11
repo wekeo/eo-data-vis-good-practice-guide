@@ -21,7 +21,7 @@ The following points summarise the main messages of the guide.
 Background
 ----------
 
-Throughout the spring of 2023, and under the umbrella of the EU's Copernicus Programme, EUMETSAT coordinated a series of workshops focussed on effective ways to visualise Earth observation data. This series brought together ideas and opinions from journalists, scientists and remote sensing practitioners from operational agencies and industry. 
+Throughout the spring of 2023, and under the umbrella of the EU's Copernicus Programme, EUMETSAT coordinated a series of workshops focusing on effective ways to visualise Earth observation data. This series brought together ideas and opinions from journalists, scientists and remote sensing practitioners from operational agencies and industry. 
 
 The workshops offered advice on how to craft impactful stories using products and imagery derived from satellites, as well as giving practical examples and demonstrations of data use and access. 
 
