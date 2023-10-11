@@ -2,7 +2,7 @@
 
 Visualisation Checklist - 10 points to consider 
 =================================================
-Key points to think aobut when storytelling with Earth observation data
+Key points to think about when storytelling with Earth observation data
 
 1. Have you made sure that your image/animation is **simple and easily understandable**. If you can, test it with others before releasing it.
 
@@ -16,7 +16,7 @@ Key points to think aobut when storytelling with Earth observation data
 
 6. Can you include additional supporting information, where possible, to back up your image/animation.
 
-7. If possible can you provide links, for instance links to scenes in online Earth observation data viewers, so that others can recreate your image.
+7. If possible can you provide links, for instance, links to scenes in online Earth observation data viewers, so that others can recreate your image.
 
 8. Have you made sure that your image/animation will **work with all mobile formats** for social media channels?
 
