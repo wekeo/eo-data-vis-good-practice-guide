@@ -8,7 +8,7 @@ Key points to think about when storytelling with Earth observation data
 
 2. Does your image have a simple key, scale bar and where relevant a background map, so that people understand the context and everything is clear in the image or animation.
 
-3. Try to use a colour scheme that is clear and **appropriate for the data shown** and avoid overly dramatic colour schemes. 
+3. Try to use a colour scheme that is clear and **appropriate for the data shown**. 
 
 4. Have you annotated the main features that you want to show e.g., wildfire, don’t assume that it will be obvious to everyone.
 
