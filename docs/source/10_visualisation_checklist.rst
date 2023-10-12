@@ -10,13 +10,13 @@ Key points to think about when storytelling with Earth observation data
 
 3. Try to use a colour scheme that is clear and **appropriate for the data shown**. 
 
-4. Have you annotated the main features that you want to show e.g., wildfire, don’t assume that it will be obvious to everyone.
+4. Have you annotated the main features that you want to show e.g., wildfires? Don’t assume that it will be obvious to everyone.
 
 5. If you have labels on your image, try to **keep text to a minimum** and **avoid jargon** or specialised technical terms.
 
 6. Can you include additional supporting information, where possible, to back up your image/animation?
 
-7. If possible can you provide links, for instance, links to scenes in online Earth observation data viewers, so that others can recreate your image.
+7. If possible can you provide links, for instance, links to scenes in online Earth observation data viewers, so that others can recreate your image?
 
 8. Have you made sure that your image/animation will **work with all mobile formats** for social media channels?
 
