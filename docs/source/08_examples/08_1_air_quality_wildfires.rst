@@ -26,9 +26,9 @@ Satellite images can provide perspective on the extent of events in the current 
 .. figure:: https://pbs.twimg.com/media/EJAg2NbXYAAb-Vc?format=jpg&name=4096x4096
    :target: https://twitter.com/Pierre_Markuse/status/1193490034302889984
    :width: 100%
-   :alt: Australia wildfires
+   :alt: Australian wildfires
 
-   *Wildfire extent captured by in the visible and short wave infra-red by Sentinel-2 (Credit: Pierre Markuse).*
+   *Wildfire extent captured in the visible and short wave infra-red by Sentinel-2 (Credit: Pierre Markuse).*
 
 Satellite data can visualise problems that are invisible to humans and occuring in remote regions.
 
@@ -39,7 +39,7 @@ Satellite data can visualise problems that are invisible to humans and occuring 
 
    *Evolution of the ozone hole (Credit: Copernicus Atmospheric Monitoring Service).*
 
-Satellites can provide multiple perspectives on a phenomena. This visualisation combined both visible and infrared measurements to highlight a lava flow in the context of the surrounding region.
+Satellites can provide multiple perspectives on a phenomenon. This visualisation combined both visible and infrared measurements to highlight a lava flow in the context of the surrounding region.
 
 .. figure:: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/10/la_palma_lava_flows_into_the_sea/23490642-1-eng-GB/La_Palma_lava_flows_into_the_sea_pillars.jpg
    :target: https://www.esa.int/ESA_Multimedia/Images/2021/10/La_Palma_lava_flows_into_the_sea
