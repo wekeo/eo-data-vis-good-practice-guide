@@ -4,7 +4,7 @@ Visualisation Checklist - 10 points to consider
 =================================================
 Key points to think about when storytelling with Earth observation data
 
-1. Have you made sure that your image/animation is **simple and easily understandable**. If you can, test it with others before releasing it.
+1. Have you made sure that your image/animation is **simple and easy to understand**. If you can, test it with others before releasing it.
 
 2. Does your image have a simple key, scale bar, and where relevant a background map, so that people understand the context and everything is clear in the image or animation?
 
